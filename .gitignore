@@ -6,8 +6,12 @@ __pycache__/
 *.pyd
 venv/
 .env
+.env.*
+.env.local
 *.pth 
 *.bin
+*.key
+.ignore
 
 # 数据集、结果、日志
 DATASETs/

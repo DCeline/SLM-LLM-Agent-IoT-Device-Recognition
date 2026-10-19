@@ -22,8 +22,9 @@ from langchain.llms.base import LLM  # 新增导入
 from langchain_core.runnables import RunnablePassthrough, RunnableSequence  # 新增导入
 
 # -------------------------- 1. 配置参数 --------------------------
-API_KEY = "" # 火山引擎API Key，DeepSeekV3.1
-# API_KEY = ""  # 替换为中国科技云提供的Token
+API_KEY = os.getenv("API_KEY")
+if not API_KEY:
+    raise ValueError("环境变量 API_KEY 未设置")
 BASE_URL = "https://ark.cn-beijing.volces.com/api/v3" # 火山引擎
 # BASE_URL = "https://uni-api.cstcloud.cn/v1"  # 中国科技云的BASE_URL
 MODEL_NAME = "deepseek-v3-1-250821" # r1太慢了
