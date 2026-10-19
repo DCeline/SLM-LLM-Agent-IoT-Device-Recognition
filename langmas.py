@@ -11,7 +11,12 @@ from langchain_openai import ChatOpenAI
 from langchain.chains import LLMChain  # 确保导入
 
 # -------------------------- 配置参数 --------------------------
-API_KEY = os.getenv("API_KEY")
+try:
+    from local_keys import LANGMAS_API_KEY as LOCAL_API_KEY
+except ImportError:
+    LOCAL_API_KEY = None
+
+API_KEY = LOCAL_API_KEY or os.getenv("API_KEY")
 if not API_KEY:
     raise ValueError("环境变量 API_KEY 未设置")
 # BASE_URL = "https://ark.cn-beijing.volces.com/api/v3" # 火山引擎

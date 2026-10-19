@@ -11,6 +11,8 @@ venv/
 *.pth 
 *.bin
 *.key
+.local_keys.py
+local_keys.py
 .ignore
 
 # 数据集、结果、日志
