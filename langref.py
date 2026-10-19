@@ -22,8 +22,8 @@ from langchain.llms.base import LLM  # 新增导入
 from langchain_core.runnables import RunnablePassthrough, RunnableSequence  # 新增导入
 
 # -------------------------- 1. 配置参数 --------------------------
-API_KEY = "cbcb991a-3607-42a5-8e36-38ea9c40b191" # 火山引擎API Key，DeepSeekV3.1
-# API_KEY = "c98d40b746766d61a7c087b77def7b2be757ead6d64bee57b3cdb2bbe2b125da"  # 替换为中国科技云提供的Token
+API_KEY = "" # 火山引擎API Key，DeepSeekV3.1
+# API_KEY = ""  # 替换为中国科技云提供的Token
 BASE_URL = "https://ark.cn-beijing.volces.com/api/v3" # 火山引擎
 # BASE_URL = "https://uni-api.cstcloud.cn/v1"  # 中国科技云的BASE_URL
 MODEL_NAME = "deepseek-v3-1-250821" # r1太慢了
