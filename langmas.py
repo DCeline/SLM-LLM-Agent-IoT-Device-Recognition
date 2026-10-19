@@ -11,7 +11,7 @@ from langchain_openai import ChatOpenAI
 from langchain.chains import LLMChain  # 确保导入
 
 # -------------------------- 配置参数 --------------------------
-API_KEY = "c98d40b746766d61a7c087b77def7b2be757ead6d64bee57b3cdb2bbe2b125da"  # 替换为中国科技云提供的Token
+API_KEY = ""  # 替换为中国科技云提供的Token
 # BASE_URL = "https://ark.cn-beijing.volces.com/api/v3" # 火山引擎
 BASE_URL = "https://uni-api.cstcloud.cn/v1"  # 中国科技云的BASE_URL
 MODEL_NAME = "deepseek-v3:671b"
