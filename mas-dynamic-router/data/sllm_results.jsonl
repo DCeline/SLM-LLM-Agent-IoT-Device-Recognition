@@ -1,0 +1,7 @@
+[
+    {"sample_id": 1, "input_info": {"small_model_candidate": "Model A", "raw_packet": "Sample packet data...", "ground_truth": "Model A"}},
+    {"sample_id": 2, "input_info": {"small_model_candidate": "Model B", "raw_packet": "Another sample packet...", "ground_truth": "Model B"}},
+    {"sample_id": 3, "input_info": {"small_model_candidate": "Model C", "raw_packet": "More sample data...", "ground_truth": "Model C"}},
+    {"sample_id": 4, "input_info": {"small_model_candidate": "Model D", "raw_packet": "Sample packet data again...", "ground_truth": "Model D"}},
+    {"sample_id": 5, "input_info": {"small_model_candidate": "Model E", "raw_packet": "Yet another sample packet...", "ground_truth": "Model E"}}
+]

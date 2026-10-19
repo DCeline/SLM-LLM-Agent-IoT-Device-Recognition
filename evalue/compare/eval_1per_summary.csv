@@ -1,0 +1,2 @@
+total_samples,positive_samples,recall_hit_samples,correct_strings,false_positive_strings,extracted_empty_count,extracted_nonempty_count,exact_match_samples,recall,precision,f1,exact_match_rate
+13840,8955,7919,7905,1348,5225,8615,7506,0.8843104410943607,0.8542712835374527,0.8690313545303524,0.5423410404624277

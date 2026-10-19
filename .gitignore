@@ -1,0 +1,22 @@
+# 不要上传数据集和参考项目到GitHub仓库
+# .gitignore 直接复制粘贴
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+*.pth 
+*.bin
+
+# 数据集、结果、日志
+DATASETs/
+OUTPUTs/
+logs/
+
+# 模型
+models/
+
+# 参考
+denario/
+denario-mas/

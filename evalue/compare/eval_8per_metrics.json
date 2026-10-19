@@ -1,0 +1,300 @@
+{
+  "metrics": {
+    "total_samples": 13840,
+    "positive_samples": 8955,
+    "recall_hit_samples": 4563,
+    "correct_strings": 3945,
+    "false_positive_strings": 1477,
+    "extracted_empty_count": 8287,
+    "extracted_nonempty_count": 5553,
+    "exact_match_samples": 3968,
+    "recall": 0.5095477386934674,
+    "precision": 0.7275606700098628,
+    "f1": 0.599344231366765,
+    "exact_match_rate": 0.28670520231213875
+  },
+  "fp_examples": [
+    {
+      "id": 394700,
+      "product": "ds-2cd2432f-iw",
+      "extracted": [
+        [
+          "ds-2cd2432f-iw",
+          0.3675577431917191
+        ],
+        [
+          "d",
+          0.701775848865509
+        ],
+        [
+          "ds",
+          0.7701621651649475
+        ]
+      ],
+      "banner": "npwebvideoplugin.dll: 3,0,4,17 webvideoactivex.ocx: 3,0,4,17 playctrl.dll: 6,5,1,6 streamtransclient.dll: 1,1,2,8 systemtransform.dll: 2,3,0,5 netstream.dll: 1,0,4,5 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:embeddednetdevice:1 friendlyname: hikvision ds-2cd2432f-iw - 448378998 manufacturer: hikvision manufacturerurl: http://www.hikvision.com modeldescription: ip camera modelname: "
+    },
+    {
+      "id": 560365,
+      "product": "ce-c-tp1",
+      "extracted": [
+        [
+          "ce",
+          0.7532632946968079
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xac\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\xac\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"e0:50:8b:6c:bc:73\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ce\",\"devicetype\":\"ce-c-tp1\",\"httpport\":40000,\"ipv4address\":{\"defaultgateway\":\"223.19.88.1\",\"dhcpenable\":true,\"ipaddress\":\"223.19.90"
+    },
+    {
+      "id": 430404,
+      "product": "ds-2cd3345-i",
+      "extracted": [
+        [
+          "ds-2cd",
+          0.6838201403617858
+        ],
+        [
+          "ds-2cd3345-i",
+          0.7757343128323555
+        ]
+      ],
+      "banner": "web_version: 3.1.3.150324 plugin_version: 3.0.5.38 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:digitalsecuritycamera:1 friendlyname: hikvision ds-2cd3345-i - 553717323 manufacturer: hikvision manufacturerurl: http://www.hikvision.com modeldescription: ip camera modelname: hikvision ds-2cd3345-i modelnumber: ds-2cd3345-i modelurl: http://www.hikvision.com serialnumber: 553717323 udn: "
+    },
+    {
+      "id": 460077,
+      "product": "ds-2cd2420fd-i",
+      "extracted": [
+        [
+          "ds",
+          0.770799309015274
+        ],
+        [
+          "ds-2cd2420fd-i",
+          0.8486968576908112
+        ],
+        [
+          "ds-2cd2420",
+          0.8954082230726877
+        ]
+      ],
+      "banner": "web_version: 3.1.3.140711 plugin_version: 3.0.5.21 npwebvideoplugin.dll: 3,0,5,21 webvideoactivex.ocx: 3,0,5,21 playctrl.dll: 6,5,2,60 streamtransclient.dll: 1,1,2,12 systemtransform.dll: 2,3,0,12 netstream.dll: 1,0,5,14 audiointercom.dll: 1,1,0,5 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:embeddednetdevice:1 friendlyname: hikvision ds-2cd2420fd-i - 478796201 manufacturer: hikvision"
+    },
+    {
+      "id": 542159,
+      "product": "ds-2cd4065f-a",
+      "extracted": [
+        [
+          "ds-2",
+          0.8681098421414694
+        ],
+        [
+          "ds",
+          0.8423880040645599
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <env:envelope><env:header><wsadis:messageid>urn:uuid:<uuid></wsadis:messageid> <wsadis:relatesto>urn:uuid:<uuid></wsadis:relatesto> <wsadis:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsadis:to> <wsadis:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsadis:action> </env:header> <env:body><d:probematches><d:probema"
+    },
+    {
+      "id": 479256,
+      "product": "ds-2cd2132f-iw",
+      "extracted": [
+        [
+          "ds-2cd2132f-iw",
+          0.7771395742893219
+        ],
+        [
+          "ds-2cd2132",
+          0.8589494526386261
+        ]
+      ],
+      "banner": "npwebvideoplugin.dll: 3,0,5,38 webvideoactivex.ocx: 3,0,5,38 playctrl.dll: 7,2,1,54 streamtransclient.dll: 1,1,2,18 systemtransform.dll: 2,4,0,8 netstream.dll: 1,0,5,30 audiointercom.dll: 1,1,0,8 web_version: 3.1.3.150324 plugin_version: 3.0.5.38 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:digitalsecuritycamera:1 friendlyname: hikvision ds-2cd2132f-iw - 612174915 manufacturer: hikvis"
+    },
+    {
+      "id": 557572,
+      "product": "ipc-c22e",
+      "extracted": [
+        [
+          "ip",
+          0.8586537837982178
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00k\\x02\\x00\\x00\\x00\\x00\\x00\\x00k\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"bc:32:5f:0f:ab:41\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"ipc-c22e\",\"httpport\":80,\"port3\":80,\"port\":37777,\"unloginfuncmask\":5,\"ipv4address\":{\"defaultgateway\":\"192.168.1.1\",\"dhc"
+    },
+    {
+      "id": 465641,
+      "product": "ds-2cd3t35d-i5",
+      "extracted": [
+        [
+          "d",
+          0.8357225060462952
+        ],
+        [
+          "ds",
+          0.8739473819732666
+        ]
+      ],
+      "banner": "npwebvideoplugin.dll: 3,0,5,38 webvideoactivex.ocx: 3,0,5,38 playctrl.dll: 7,2,1,54 streamtransclient.dll: 1,1,2,18 systemtransform.dll: 2,4,0,8 netstream.dll: 1,0,5,30 audiointercom.dll: 1,1,0,8 web_version: 3.1.3.150324 plugin_version: 3.0.5.38 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:digitalsecuritycamera:1 friendlyname: hikvision ds-2cd3t35d-i5 - 548348916 manufacturer: hikvis"
+    },
+    {
+      "id": 589199,
+      "product": "n45eyn2",
+      "extracted": [
+        [
+          "n",
+          0.7317719459533691
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x0e\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x0e\\x03\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"c0:39:5a:15:9b:60\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"abroadinfo\":\"oversea\",\"alarminputchannels\":1,\"alarmoutputchannels\":1,\"deviceclass\":\"ipc\",\"deviceid\":\"\",\"devicetype\":\"n45eyn2\",\"find\":\"bc\",\"findversion\":1,\"httpport\":80,\"ipv4address\":{\"defaultg"
+    },
+    {
+      "id": 540448,
+      "product": "ds-2cd2t12-i8",
+      "extracted": [
+        [
+          "ds",
+          0.7656042575836182
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <env:envelope><env:header><wsadis:messageid>urn:uuid:<uuid></wsadis:messageid> <wsadis:relatesto>urn:uuid:<uuid></wsadis:relatesto> <wsadis:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsadis:to> <wsadis:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsadis:action> </env:header> <env:body><d:probematches><d:probema"
+    },
+    {
+      "id": 536999,
+      "product": "ds-2cd2t43g0-i8",
+      "extracted": [
+        [
+          "d",
+          0.8476794958114624
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <env:envelope><env:header><wsadis:messageid>urn:uuid:<uuid></wsadis:messageid> <wsadis:relatesto>urn:uuid:<uuid></wsadis:relatesto> <wsadis:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsadis:to> <wsadis:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsadis:action> </env:header> <env:body><d:probematches><d:probema"
+    },
+    {
+      "id": 537832,
+      "product": "ds-2de5230w-ae",
+      "extracted": [
+        [
+          "ds",
+          0.9126107096672058
+        ],
+        [
+          "d",
+          0.872441828250885
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <env:envelope><env:header><wsadis:messageid>urn:uuid:<uuid></wsadis:messageid> <wsadis:relatesto>urn:uuid:<uuid></wsadis:relatesto> <wsadis:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsadis:to> <wsadis:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsadis:action> </env:header> <env:body><d:probematches><d:probema"
+    },
+    {
+      "id": 514209,
+      "product": "ds-2cd2132f-is",
+      "extracted": [
+        [
+          "ds-2cd2132f-is",
+          0.5312518268823624
+        ],
+        [
+          "ds",
+          0.8360924124717712
+        ]
+      ],
+      "banner": "major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:embeddednetdevice:1 friendlyname: hikvision ds-2cd2132f-is - 499808855 manufacturer: hikvision manufacturerurl: http://www.hikvision.com modeldescription: ip camera modelname: hikvision ds-2cd2132f-is modelnumber: ds-2cd2132f-is modelurl: http://www.hikvision.com serialnumber: 499808855 udn: uuid:upnp-ds-2cd2132f-is-1_0-499808855 servicetyp"
+    },
+    {
+      "id": 518544,
+      "product": "ds-2cd2732f-is",
+      "extracted": [
+        [
+          "d",
+          0.848792552947998
+        ]
+      ],
+      "banner": "npwebvideoplugin.dll: 3,0,5,23 webvideoactivex.ocx: 3,0,5,23 playctrl.dll: 7,2,0,50 streamtransclient.dll: 1,1,2,12 systemtransform.dll: 2,3,0,12 netstream.dll: 1,0,5,18 audiointercom.dll: 1,1,0,5 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:embeddednetdevice:1 friendlyname: hikvision ds-2cd2732f-is - 523492122 manufacturer: hikvision manufacturerurl: http://www.hikvision.com modeldes"
+    },
+    {
+      "id": 397951,
+      "product": "ds-2de5220i-ae",
+      "extracted": [
+        [
+          "ds-2",
+          0.7260461151599884
+        ],
+        [
+          "d",
+          0.8575277328491211
+        ]
+      ],
+      "banner": "web_version: 3.1.3.150906 plugin_version: 3.0.5.42 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:digitalsecuritycamera:1 friendlyname: hikvision ds-2de5220i-ae - 560618204 manufacturer: hikvision manufacturerurl: http://www.hikvision.com modeldescription: ip camera modelname: hikvision ds-2de5220i-ae modelnumber: ds-2de5220i-ae modelurl: http://www.hikvision.com serialnumber: 560618204"
+    },
+    {
+      "id": 540684,
+      "product": "ds-2cd2112f-iw",
+      "extracted": [
+        [
+          "ds-2cd2112f-iw",
+          0.6860676010449728
+        ],
+        [
+          "d",
+          0.780156672000885
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <env:envelope><env:header><wsadis:messageid>urn:uuid:<uuid></wsadis:messageid> <wsadis:relatesto>urn:uuid:<uuid></wsadis:relatesto> <wsadis:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsadis:to> <wsadis:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsadis:action> </env:header> <env:body><d:probematches><d:probema"
+    },
+    {
+      "id": 395733,
+      "product": "ds-2cd2422fwd-iw",
+      "extracted": [
+        [
+          "ds",
+          0.8244373202323914
+        ]
+      ],
+      "banner": "web_version: v4.0.51build160817 plugin_version: v3.0.6.1 custom_version: dz20160811_075 npwebvideoplugin.dll: 3,0,6,1 webvideoactivex.ocx: 3,0,6,1 playctrl.dll: 7,3,0,80 streamtransclient.dll: 1,1,3,4 systemtransform.dll: 2,5,1,7 netstream.dll: 1,0,5,37 audiointercom.dll: 1,3,0,3 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:digitalsecuritycamera:1 friendlyname: hikvision ds-2cd2422fwd"
+    },
+    {
+      "id": 453467,
+      "product": "hq-mp1328bd-ir",
+      "extracted": [
+        [
+          "h",
+          0.7388629913330078
+        ]
+      ],
+      "banner": "npwebvideoplugin.dll: 3,0,5,21 webvideoactivex.ocx: 3,0,5,21 playctrl.dll: 6,5,2,60 streamtransclient.dll: 1,1,2,12 systemtransform.dll: 2,3,0,12 netstream.dll: 1,0,5,14 audiointercom.dll: 1,1,0,5 web_version: 3.1.3.140813 plugin_version: 3.0.5.21 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:embeddednetdevice:1 friendlyname: upnp hq-mp1328bd-ir - 507608440 manufacturer: upnp manufactu"
+    },
+    {
+      "id": 536637,
+      "product": "zmr8422x",
+      "extracted": [
+        [
+          "mr8422x",
+          0.8596065938472748
+        ],
+        [
+          "zmr8422x",
+          0.6620900511741639
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <soap-env:envelope><soap-env:header><wsa:messageid>uuid:<uuid></wsa:messageid><wsa:relatesto>urn:uuid:<uuid></wsa:relatesto><wsa:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsa:to><wsa:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsa:action></soap-env:header><soap-env:body><d:probematches><d:probematch><wsa:endp"
+    },
+    {
+      "id": 477185,
+      "product": "ds-2cd2t12-i8",
+      "extracted": [
+        [
+          "d",
+          0.7317384481430054
+        ],
+        [
+          "ds-2cd2t12-i8",
+          0.4919244267723777
+        ],
+        [
+          "ds-2cd2",
+          0.6155965745449066
+        ]
+      ],
+      "banner": "web_version: 3.1.3.150324 plugin_version: 3.0.5.38 npwebvideoplugin.dll: 3.0.5.38 webvideoactivex.ocx: 3.0.5.38 playctrl.dll: 7.2.1.54 streamtransclient.dll: 1.1.2.18 systemtransform.dll: 2.4.0.8 netstream.dll: 1.0.5.30 audiointercom.dll: 1.1.0.8 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:digitalsecuritycamera:1 friendlyname: hikvision ds-2cd2t12-i8 - 549858458 manufacturer: hikvisi"
+    }
+  ],
+  "fn_examples": [],
+  "per_sample_path": "compare\\eval_8per_per_sample.jsonl"
+}

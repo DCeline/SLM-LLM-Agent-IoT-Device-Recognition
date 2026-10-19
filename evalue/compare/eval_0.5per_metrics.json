@@ -1,0 +1,264 @@
+{
+  "metrics": {
+    "total_samples": 13840,
+    "positive_samples": 8955,
+    "recall_hit_samples": 7523,
+    "correct_strings": 7407,
+    "false_positive_strings": 1107,
+    "extracted_empty_count": 5594,
+    "extracted_nonempty_count": 8246,
+    "exact_match_samples": 7231,
+    "recall": 0.8400893355667225,
+    "precision": 0.8699802831181662,
+    "f1": 0.8547735718069193,
+    "exact_match_rate": 0.522471098265896
+  },
+  "fp_examples": [
+    {
+      "id": 528444,
+      "product": "q6215-le ptz",
+      "extracted": [
+        [
+          "q6215-le",
+          0.9955773830413819
+        ]
+      ],
+      "banner": "<html><body>220 axis q6215-le ptz network camera 10.0.2 (2020) ready.\\r\\n</body></html>"
+    },
+    {
+      "id": 596752,
+      "product": "ash42-b",
+      "extracted": [
+        [
+          "ash42-b",
+          0.9953472167253494
+        ],
+        [
+          "z10a949",
+          0.9834068864583969
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xc5\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\xc5\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"9c:8e:cd:27:c9:6b\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"deviceid\":\"\",\"devicetype\":\"ash42-b\",\"find\":\"b\",\"findversion\":0,\"httpport\":80,\"ipv4address\":{\"defaultgateway\":\"69.14.60.1\",\"dh"
+    },
+    {
+      "id": 572976,
+      "product": "ipc-hdw1230c-a",
+      "extracted": [
+        [
+          "ipc-hdw1230c-a-v2",
+          0.9981641356761639
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00v\\x02\\x00\\x00\\x00\\x00\\x00\\x00v\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"bc:32:5f:72:16:10\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"ipc-hdw1230c-a-v2\",\"httpport\":80,\"port3\":80,\"port\":37777,\"ipv4address\":{\"defaultgateway\":\"192.168.0.1\",\"dhcpenable\":fa"
+    },
+    {
+      "id": 596479,
+      "product": "dh-tpc-pt8421a",
+      "extracted": [
+        [
+          "dh",
+          0.9111775159835815
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xbb\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\xbb\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"a0:bd:1d:85:63:eb\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":7,\"alarmoutputchannels\":2,\"deviceclass\":\"tpc-sd\",\"devicetype\":\"dh-tpc-pt8421a\",\"find\":\"a\",\"httpport\":2022,\"ipv4address\":{\"defaultgateway\":\"111.53.12.33\",\"dhcpenable\":false,"
+    },
+    {
+      "id": 114230,
+      "product": "b6220",
+      "extracted": [
+        [
+          "b",
+          0.5687404274940491
+        ]
+      ],
+      "banner": "server: boa/0.94.14rc21 accept-ranges: bytes www-authenticate: basic realm=\"b6220 2mp bullet camera\" <html><head><title>401 unauthorized</title></head> <body><h1>401 unauthorized</h1> your client does not have permission to get url / from this server. </body></html>"
+    },
+    {
+      "id": 596408,
+      "product": "ipc-hdw2433dt-a-led",
+      "extracted": [
+        [
+          "ipc-hdw2433dt-a-led-v2",
+          0.9984410206476847
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xf9\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\xf9\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"08:ed:ed:9f:d3:1b\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"deviceid\":\"\",\"devicetype\":\"ipc-hdw2433dt-a-led-v2\",\"find\":\"ace\",\"findversion\":2,\"httpport\":80,\"ipv4address\":{\"defaultgateway\""
+    },
+    {
+      "id": 565717,
+      "product": "dh-sd-6c3432xb-hnr",
+      "extracted": [
+        [
+          "dh-sd-6c3432xb-hnr-1t",
+          0.9978387792905171
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x06\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x06\\x03\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"e4:24:6c:16:3c:d3\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":2,\"alarmoutputchannels\":1,\"deviceclass\":\"sd\",\"deviceid\":\"\",\"devicetype\":\"dh-sd-6c3432xb-hnr-1t\",\"find\":\"ace\",\"findversion\":2,\"httpport\":8081,\"ipv4address\":{\"defaultgateway\""
+    },
+    {
+      "id": 537737,
+      "product": "ds-2cd5a26efwd-izs",
+      "extracted": [
+        [
+          "ds-2cd5a26efwd-izs",
+          0.9983206937710444
+        ],
+        [
+          "ds-2cd5a26efwd-iz",
+          0.9991017480691274
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <env:envelope><env:header><wsadis:messageid>urn:uuid:<uuid></wsadis:messageid> <wsadis:relatesto>urn:uuid:<uuid></wsadis:relatesto> <wsadis:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsadis:to> <wsadis:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsadis:action> </env:header> <env:body><d:probematches><d:probema"
+    },
+    {
+      "id": 539596,
+      "product": "ali-fb41-ua",
+      "extracted": [
+        [
+          "ali-fb41-",
+          0.9973942399024963
+        ],
+        [
+          "ali-fb41-ua",
+          0.9910815755526224
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <soap-env:envelope><soap-env:header><wsa:messageid>urn:uuid:<uuid>-50dcd000ea98</wsa:messageid><wsa:relatesto>urn:uuid:<uuid></wsa:relatesto><wsa:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsa:to><wsa:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsa:action></soap-env:header><soap-env:body><tns:probematches><tns"
+    },
+    {
+      "id": 528368,
+      "product": "215",
+      "extracted": [
+        [
+          "p",
+          0.6139612793922424
+        ]
+      ],
+      "banner": "<html><body>220 axis 215 ptz network camera 4.40 (apr 26 2007) ready.\\r\\n</body></html>"
+    },
+    {
+      "id": 541780,
+      "product": "ipc-e616-ir@du-x33",
+      "extracted": [
+        [
+          "ipc-e616-ir",
+          0.9919059532029288
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <soap-env:envelope><soap-env:header><wsa:messageid>urn:uuid:<uuid></wsa:messageid><wsa:relatesto>urn:uuid:<uuid></wsa:relatesto><wsa:to>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:to><wsa:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsa:action></soap-env:header><soap-env:body><tns:probematches><tns:probematch><wsa:endpointreferen"
+    },
+    {
+      "id": 571073,
+      "product": "dh-ipc-hfw1230s",
+      "extracted": [
+        [
+          "dh-ipc-hfw1230s-s5",
+          0.9967383971581092
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00o\\x02\\x00\\x00\\x00\\x00\\x00\\x00o\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"3c:e3:6b:c8:e4:4b\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"dh-ipc-hfw1230s-s5\",\"httpport\":80,\"port3\":80,\"port\":5978,\"ipv4address\":{\"defaultgateway\":\"60.244.241.126\",\"dhcpenable\""
+    },
+    {
+      "id": 532810,
+      "product": "214",
+      "extracted": [
+        [
+          "p",
+          0.6392862796783447
+        ]
+      ],
+      "banner": "<html><body>220 axis 214 ptz network camera 4.32 (jan 27 2006) ready.\\r\\n</body></html>"
+    },
+    {
+      "id": 572021,
+      "product": "im5-m",
+      "extracted": [
+        [
+          "im5-m",
+          0.9865330010652542
+        ],
+        [
+          "im5-m-2731",
+          0.9955938288143703
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00f\\x02\\x00\\x00\\x00\\x00\\x00\\x00f\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"d8:36:5f:dc:d5:f7\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"im5-m\",\"httpport\":80,\"port3\":80,\"port\":37777,\"unloginfuncmask\":1,\"ipv4address\":{\"defaultgateway\":\"192.168.0.1\",\"dhcpen"
+    },
+    {
+      "id": 574998,
+      "product": "ipc-hdw1235c-a",
+      "extracted": [
+        [
+          "dh-ipc-hdw1235c-a-v5",
+          0.9984251062075297
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00d\\x02\\x00\\x00\\x00\\x00\\x00\\x00d\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"6c:1c:71:b3:6b:a4\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"dh-ipc-hdw1235c-a-v5\",\"httpport\":8001,\"port3\":8001,\"port\":37777,\"ipv4address\":{\"defaultgateway\":\"183.196.203.254\",\"dhc"
+    },
+    {
+      "id": 416842,
+      "product": "cmip3412-28",
+      "extracted": [
+        [
+          "cmip3412-28",
+          0.9973950584729513
+        ],
+        [
+          "cmip3412",
+          0.9926918298006058
+        ]
+      ],
+      "banner": "npwebvideoplugin.dll: 3,0,4,6 webvideoactivex.ocx: 3,0,4,6 playctrl.dll: 6,4,1,1 streamtransclient.dll: 1,1,1,13 systemtransform.dll: 2,2,0,5 netstream.dll: 1,0,3,1 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:embeddednetdevice:1 friendlyname: upnp cmip3412-28 - 436451900 manufacturer: upnp manufacturerurl: http://www.upnp.com modeldescription: ip camera modelname: upnp cmip3412-28 mo"
+    },
+    {
+      "id": 483665,
+      "product": "hic7622-irl",
+      "extracted": [
+        [
+          "hic7622-irl",
+          0.7973715861638387
+        ],
+        [
+          "x44-l-vf",
+          0.9818973967007228
+        ]
+      ],
+      "banner": "showdevicetype: \"hic7622-irl@x44-l-vf\" showversiontype: 0 showproducttype: 0 showdevicename: \"hic7622-irl@x44-l-vf\" showcustomercode: \"09\" showlanglist: \"0\""
+    },
+    {
+      "id": 170135,
+      "product": "p5116",
+      "extracted": [
+        [
+          "p5116 720p",
+          0.9221947431564331
+        ]
+      ],
+      "banner": "server: boa/0.94.14rc21 accept-ranges: bytes www-authenticate: basic realm=\"p5116 720p wireless pt camera\" <html><head><title>401 unauthorized</title></head> <body><h1>401 unauthorized</h1> your client does not have permission to get url / from this server. </body></html>"
+    },
+    {
+      "id": 463878,
+      "product": "ipc672lr-ax5um4kc-dt",
+      "extracted": [
+        [
+          "ipc672lr-ax5um4kc",
+          0.9500110149383545
+        ]
+      ],
+      "banner": "showdevicetype: \"ipc672lr-ax5um4kc-dt\" showversiontype: 2 showproducttype: 0 showdevicename: \"ipc672lr-ax5um4kc-dt\" showcustomercode: \"09\" showlanglist: \"0\""
+    },
+    {
+      "id": 543300,
+      "product": "ipc-e614-fw@x33-vf",
+      "extracted": [
+        [
+          "ipc-e614-",
+          0.9942088623841604
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <soap-env:envelope><soap-env:header><wsa:messageid>10095</wsa:messageid><wsa:relatesto>urn:uuid:<uuid></wsa:relatesto><wsa:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsa:to><wsa:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsa:action></soap-env:header><soap-env:body><tns:probematches><tns:probematch><wsa:endpoi"
+    }
+  ],
+  "fn_examples": [],
+  "per_sample_path": "compare\\eval_0.5per_per_sample.jsonl"
+}

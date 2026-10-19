@@ -1,0 +1,11 @@
+api_key: "your_api_key_here"
+model_name: "your_model_name_here"
+base_url: "https://your.api.url.here"
+max_tokens: 150
+temperature: 0.7
+log_level: "INFO"
+data_file: "data/sllm_results.jsonl"
+output_file: "output/results.jsonl"
+agent_timeout: 30
+max_retries: 5
+semaphore_limit: 30

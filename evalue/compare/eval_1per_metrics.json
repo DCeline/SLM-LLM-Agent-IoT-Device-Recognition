@@ -1,0 +1,264 @@
+{
+  "metrics": {
+    "total_samples": 13840,
+    "positive_samples": 8955,
+    "recall_hit_samples": 7919,
+    "correct_strings": 7905,
+    "false_positive_strings": 1348,
+    "extracted_empty_count": 5225,
+    "extracted_nonempty_count": 8615,
+    "exact_match_samples": 7506,
+    "recall": 0.8843104410943607,
+    "precision": 0.8542712835374527,
+    "f1": 0.8690313545303524,
+    "exact_match_rate": 0.5423410404624277
+  },
+  "fp_examples": [
+    {
+      "id": 528444,
+      "product": "q6215-le ptz",
+      "extracted": [
+        [
+          "q6215-le",
+          0.9992831707000732
+        ]
+      ],
+      "banner": "<html><body>220 axis q6215-le ptz network camera 10.0.2 (2020) ready.\\r\\n</body></html>"
+    },
+    {
+      "id": 572976,
+      "product": "ipc-hdw1230c-a",
+      "extracted": [
+        [
+          "ipc-hdw1230c-a-v2",
+          0.9989676750623263
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00v\\x02\\x00\\x00\\x00\\x00\\x00\\x00v\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"bc:32:5f:72:16:10\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"ipc-hdw1230c-a-v2\",\"httpport\":80,\"port3\":80,\"port\":37777,\"ipv4address\":{\"defaultgateway\":\"192.168.0.1\",\"dhcpenable\":fa"
+    },
+    {
+      "id": 533124,
+      "product": "wv-s1531l",
+      "extracted": [
+        [
+          "wv-s1531l",
+          0.998954279082162
+        ],
+        [
+          "tlv32332",
+          0.9994128048419952
+        ]
+      ],
+      "banner": "status: 200 <?xml version=\"1.0\" encoding=\"utf-8\"?> <env:envelope><env:body><getdeviceinformationresponse><manufacturer>panasonic</manufacturer><model>wv-s1531l</model><firmwareversion>4.80</firmwareversion><serialnumber>tlv32332</serialnumber><hardwareid>00</hardwareid></getdeviceinformationresponse></env:body></env:envelope>"
+    },
+    {
+      "id": 596408,
+      "product": "ipc-hdw2433dt-a-led",
+      "extracted": [
+        [
+          "ipc-hdw2433dt-a-led-v2",
+          0.998780079682668
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xf9\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\xf9\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"08:ed:ed:9f:d3:1b\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"deviceid\":\"\",\"devicetype\":\"ipc-hdw2433dt-a-led-v2\",\"find\":\"ace\",\"findversion\":2,\"httpport\":80,\"ipv4address\":{\"defaultgateway\""
+    },
+    {
+      "id": 565717,
+      "product": "dh-sd-6c3432xb-hnr",
+      "extracted": [
+        [
+          "dh-sd-6c3432xb-hnr-1t",
+          0.9991703033447266
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x06\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x06\\x03\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"e4:24:6c:16:3c:d3\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":2,\"alarmoutputchannels\":1,\"deviceclass\":\"sd\",\"deviceid\":\"\",\"devicetype\":\"dh-sd-6c3432xb-hnr-1t\",\"find\":\"ace\",\"findversion\":2,\"httpport\":8081,\"ipv4address\":{\"defaultgateway\""
+    },
+    {
+      "id": 577118,
+      "product": "dh-ipc-hfw54xyzf1y-abc",
+      "extracted": [
+        [
+          "dh-ipc-hfw54xyzf1y",
+          0.9570997861715463
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00%\\x03\\x00\\x00\\x00\\x00\\x00\\x00%\\x03\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"f4:b1:c2:82:e2:54\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"abroadinfo\":\"mainland\",\"alarminputchannels\":2,\"alarmoutputchannels\":2,\"deviceclass\":\"ipc\",\"deviceid\":\"\",\"devicetype\":\"dh-ipc-hfw54xyzf1y-abc\",\"find\":\"ace\",\"findversion\":2,\"httpport\":80,\"ipv4address\""
+    },
+    {
+      "id": 541780,
+      "product": "ipc-e616-ir@du-x33",
+      "extracted": [
+        [
+          "ad-3e-86",
+          0.9868698120117188
+        ],
+        [
+          "ipc-e616-ir",
+          0.9961758170809064
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <soap-env:envelope><soap-env:header><wsa:messageid>urn:uuid:<uuid></wsa:messageid><wsa:relatesto>urn:uuid:<uuid></wsa:relatesto><wsa:to>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:to><wsa:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsa:action></soap-env:header><soap-env:body><tns:probematches><tns:probematch><wsa:endpointreferen"
+    },
+    {
+      "id": 561165,
+      "product": "vip-1230-d-g2",
+      "extracted": [
+        [
+          "vip-1230-d-g2",
+          0.9986215949058532
+        ],
+        [
+          "hw",
+          0.9621015787124634
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00d\\x02\\x00\\x00\\x00\\x00\\x00\\x00d\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"48:51:cf:a1:3c:19\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"vip-1230-d-g2\",\"httpport\":8081,\"port3\":8081,\"port\":37777,\"ipv4address\":{\"defaultgateway\":\"192.168.15.1\",\"dhcpenable\":f"
+    },
+    {
+      "id": 571073,
+      "product": "dh-ipc-hfw1230s",
+      "extracted": [
+        [
+          "dh-ipc-hfw1230s-s5",
+          0.999178735109476
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00o\\x02\\x00\\x00\\x00\\x00\\x00\\x00o\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"3c:e3:6b:c8:e4:4b\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"dh-ipc-hfw1230s-s5\",\"httpport\":80,\"port3\":80,\"port\":5978,\"ipv4address\":{\"defaultgateway\":\"60.244.241.126\",\"dhcpenable\""
+    },
+    {
+      "id": 528151,
+      "product": "p1365",
+      "extracted": [
+        [
+          "p1365 mk ii",
+          0.9992191195487976
+        ]
+      ],
+      "banner": "<html><body>220 axis p1365 mk ii network camera 9.70.1 (2020) ready.\\r\\n</body></html>"
+    },
+    {
+      "id": 551158,
+      "product": "dcs-4602ev",
+      "extracted": [
+        [
+          "dcs-4",
+          0.9964359104633331
+        ]
+      ],
+      "banner": "st: upnp:rootdevice usn: uuid:upnp_networkcamera-b0c5545f686a::upnp:rootdevice location: http://192.168.1.73:49152/edevicedesc.xml server: d-link/dcs-4602ev/7.l.0.27822/169.254.193.82/dcs-4602ev/554/both/pal/192.168.1.1/b/b0:c5:54:5f:68:6a ext:"
+    },
+    {
+      "id": 459366,
+      "product": "ts-wlc2",
+      "extracted": [
+        [
+          "iodata",
+          0.8251937329769135
+        ],
+        [
+          "cam-43e9",
+          0.9987435221672059
+        ]
+      ],
+      "banner": "brand: iodata prodfullname: iodata wireless network camera prodshortname: ts-wlc2 prodnbr: iodata wireless network camera prodtype: iodata network camera weburl: http://www.iobb.net version: v1.63 customversion: v1.15 detailversion: v1.63 (dec 17 2015 11:10:59) camerafwversion: sn9c2911.1.12edm-v912-1 builddate: 20151217 modelid: 50 vendorid: 32 autoupgradestatus: 1 deviceuptime: 28 days 13 hours "
+    },
+    {
+      "id": 606108,
+      "product": "flexidome_ip_micro_5000_hd",
+      "extracted": [
+        [
+          "micro 5000",
+          0.6421457678079605
+        ]
+      ],
+      "banner": "<html><body>\\r\\n\\r\\nwelcome to flexidome ip micro 5000 hd 174.66.76.132 from 139.59.181.152\\r\\n</body></html>"
+    },
+    {
+      "id": 576726,
+      "product": "ipc-hdbw2231r-zs-s2",
+      "extracted": [
+        [
+          "ipc-hdbw2231r-zs",
+          0.9755410601695379
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x18\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x18\\x03\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"bc:32:5f:38:fd:eb\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"abroadinfo\":\"oversea\",\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"deviceid\":\"\",\"devicetype\":\"ipc-hdbw2231r-zs-s2\",\"find\":\"bc\",\"findversion\":1,\"httpport\":80,\"ipv4address"
+    },
+    {
+      "id": 572021,
+      "product": "im5-m",
+      "extracted": [
+        [
+          "im5-m",
+          0.9978068768978119
+        ],
+        [
+          "im5-m-2731",
+          0.9990152801786151
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00f\\x02\\x00\\x00\\x00\\x00\\x00\\x00f\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"d8:36:5f:dc:d5:f7\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"im5-m\",\"httpport\":80,\"port3\":80,\"port\":37777,\"unloginfuncmask\":1,\"ipv4address\":{\"defaultgateway\":\"192.168.0.1\",\"dhcpen"
+    },
+    {
+      "id": 574998,
+      "product": "ipc-hdw1235c-a",
+      "extracted": [
+        [
+          "dh-ipc-hdw1235c-a-v5",
+          0.9990930676460266
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00d\\x02\\x00\\x00\\x00\\x00\\x00\\x00d\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"6c:1c:71:b3:6b:a4\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"dh-ipc-hdw1235c-a-v5\",\"httpport\":8001,\"port3\":8001,\"port\":37777,\"ipv4address\":{\"defaultgateway\":\"183.196.203.254\",\"dhc"
+    },
+    {
+      "id": 483665,
+      "product": "hic7622-irl",
+      "extracted": [
+        [
+          "hic7622-irl@x44-l-vf",
+          0.9994051073278699
+        ]
+      ],
+      "banner": "showdevicetype: \"hic7622-irl@x44-l-vf\" showversiontype: 0 showproducttype: 0 showdevicename: \"hic7622-irl@x44-l-vf\" showcustomercode: \"09\" showlanglist: \"0\""
+    },
+    {
+      "id": 607470,
+      "product": "gxv3610_hd",
+      "extracted": [
+        [
+          "gxv3610",
+          0.995291244983673
+        ]
+      ],
+      "banner": "<html><body>\\xff\\xfb\\x03\\xff\\xfb\\x01\\xff\\xfd\\x03\\xff\\xfd\\x01 grandstream gxv3610_hd shell command.copyight 2011-2014\\r\\nusername:</body></html>"
+    },
+    {
+      "id": 591701,
+      "product": "rvi-ipc43l v.2 (2.7-12)",
+      "extracted": [
+        [
+          "rvi-ipc43l",
+          0.9981459123747689
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xb4\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\xb4\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"40:f4:13:41:31:18\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"rvi-ipc43l v.2 (2.7-12)\",\"httpport\":80,\"ipv4address\":{\"defaultgateway\":\"109.206.128.1\",\"dhcpenable\":false,\"ipadd"
+    },
+    {
+      "id": 571559,
+      "product": "vip-1230-d-g3",
+      "extracted": [
+        [
+          "vip-1230-d-g3",
+          0.998895925283432
+        ],
+        [
+          "led003sc401",
+          0.9973335862159729
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00g\\x02\\x00\\x00\\x00\\x00\\x00\\x00g\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"48:51:cf:ff:d9:ed\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"vip-1230-d-g3\",\"httpport\":80,\"port3\":80,\"port\":37777,\"ipv4address\":{\"defaultgateway\":\"189.90.54.89\",\"dhcpenable\":false"
+    }
+  ],
+  "fn_examples": [],
+  "per_sample_path": "compare\\eval_11per_per_sample.jsonl"
+}

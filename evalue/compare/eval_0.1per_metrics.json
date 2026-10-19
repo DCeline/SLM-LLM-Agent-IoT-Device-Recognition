@@ -1,0 +1,276 @@
+{
+  "metrics": {
+    "total_samples": 13346,
+    "positive_samples": 8955,
+    "recall_hit_samples": 7441,
+    "correct_strings": 7421,
+    "false_positive_strings": 10101,
+    "extracted_empty_count": 4606,
+    "extracted_nonempty_count": 8740,
+    "exact_match_samples": 6529,
+    "recall": 0.8309324399776661,
+    "precision": 0.423526455542295,
+    "f1": 0.5610735789840025,
+    "exact_match_rate": 0.48921025026225085
+  },
+  "fp_examples": [
+    {
+      "id": 528444,
+      "product": "q6215-le ptz",
+      "extracted": [
+        [
+          "q6215-le",
+          0.9986034154891967
+        ]
+      ],
+      "banner": "<html><body>220 axis q6215-le ptz network camera 10.0.2 (2020) ready.\\r\\n</body></html>"
+    },
+    {
+      "id": 572976,
+      "product": "ipc-hdw1230c-a",
+      "extracted": [
+        [
+          "ipc-hdw1230c-a-v2",
+          1.0001033452840953
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00v\\x02\\x00\\x00\\x00\\x00\\x00\\x00v\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"bc:32:5f:72:16:10\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"ipc-hdw1230c-a-v2\",\"httpport\":80,\"port3\":80,\"port\":37777,\"ipv4address\":{\"defaultgateway\":\"192.168.0.1\",\"dhcpenable\":fa"
+    },
+    {
+      "id": 559390,
+      "product": "rvi-ipc32vb(2.8mm)",
+      "extracted": [
+        [
+          "rvi-ipc32vb",
+          0.9990090876817703
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00c\\x02\\x00\\x00\\x00\\x00\\x00\\x00c\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"40:f4:13:46:9c:96\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"rvi-ipc32vb(2.8mm)\",\"httpport\":80,\"port3\":80,\"port\":37777,\"ipv4address\":{\"defaultgateway\":\"192.168.0.1\",\"dhcpenable\":f"
+    },
+    {
+      "id": 533124,
+      "product": "wv-s1531l",
+      "extracted": [
+        [
+          "wv-s1531l",
+          1.0007415328707014
+        ],
+        [
+          "t",
+          0.9994202852249146
+        ]
+      ],
+      "banner": "status: 200 <?xml version=\"1.0\" encoding=\"utf-8\"?> <env:envelope><env:body><getdeviceinformationresponse><manufacturer>panasonic</manufacturer><model>wv-s1531l</model><firmwareversion>4.80</firmwareversion><serialnumber>tlv32332</serialnumber><hardwareid>00</hardwareid></getdeviceinformationresponse></env:body></env:envelope>"
+    },
+    {
+      "id": 496962,
+      "product": "ds-2dyh2abcde-xyzl/vws",
+      "extracted": [
+        [
+          "ds-2dyh2abcde-",
+          0.9989149153232575
+        ],
+        [
+          "ds-2dyh2abcde",
+          0.993852953116099
+        ],
+        [
+          "ds-2dyh2abc",
+          0.9880613599504743
+        ]
+      ],
+      "banner": "npwebvideoplugin.dll: 3,0,6,6 webvideoactivex.ocx: 3,0,6,6 playctrl.dll: 7,3,1,61 streamtransclient.dll: 1,1,3,5 systemtransform.dll: 2,5,1,9 netstream.dll: 1,0,5,39 audiointercom.dll: 1,3,0,5 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:digitalsecuritycamera:1 friendlyname: hikvision ds-2dyh2abcde-xyzl/vws - 142971088 manufacturer: hikvision manufacturerurl: http://www.hikvision.com "
+    },
+    {
+      "id": 596408,
+      "product": "ipc-hdw2433dt-a-led",
+      "extracted": [
+        [
+          "ipc-hdw2433dt-a-led-v2",
+          1.00013028383255
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xf9\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\xf9\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"08:ed:ed:9f:d3:1b\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"deviceid\":\"\",\"devicetype\":\"ipc-hdw2433dt-a-led-v2\",\"find\":\"ace\",\"findversion\":2,\"httpport\":80,\"ipv4address\":{\"defaultgateway\""
+    },
+    {
+      "id": 160603,
+      "product": "207mw",
+      "extracted": [
+        [
+          "axis 207mw",
+          0.9460375905036926
+        ]
+      ],
+      "banner": "<!doctype html public \"-//w3c//dtd html 4.01 transitional//en\"> <html><head> <meta content=\"tue, 12 may 1962 1:00:00 gmt\"/> <meta content=\"no-cache\"/> <meta content=\"no-cache\"/> <meta content=\"text/html; charset=utf-8\"/> <meta content=\"en\"/> <title>live view - axis 207mw network camera</title> </head><body>your browser has javascript turned off.for the user interface to work, you must enable javas"
+    },
+    {
+      "id": 565717,
+      "product": "dh-sd-6c3432xb-hnr",
+      "extracted": [
+        [
+          "dh-sd-6c3432xb-hnr-1t",
+          0.9998128851254781
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x06\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x06\\x03\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"e4:24:6c:16:3c:d3\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":2,\"alarmoutputchannels\":1,\"deviceclass\":\"sd\",\"deviceid\":\"\",\"devicetype\":\"dh-sd-6c3432xb-hnr-1t\",\"find\":\"ace\",\"findversion\":2,\"httpport\":8081,\"ipv4address\":{\"defaultgateway\""
+    },
+    {
+      "id": 539596,
+      "product": "ali-fb41-ua",
+      "extracted": [
+        [
+          "-50dcd000ea98",
+          0.9853086727006095
+        ],
+        [
+          "ali-fb41-ua",
+          0.9979689617951711
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <soap-env:envelope><soap-env:header><wsa:messageid>urn:uuid:<uuid>-50dcd000ea98</wsa:messageid><wsa:relatesto>urn:uuid:<uuid></wsa:relatesto><wsa:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsa:to><wsa:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsa:action></soap-env:header><soap-env:body><tns:probematches><tns"
+    },
+    {
+      "id": 576897,
+      "product": "rvi-1nct2020(2.8)",
+      "extracted": [
+        [
+          "rvi-1nct2020",
+          0.9965537701334272
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00&lt;\\x02\\x00\\x00\\x00\\x00\\x00\\x00&lt;\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"40:f4:13:48:42:fb\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"rvi-1nct2020(2.8)\",\"httpport\":80,\"port3\":80,\"port\":37777,\"ipv4address\":{\"defaultgateway\":\"212.19.26.1\",\"dhcpenab"
+    },
+    {
+      "id": 543188,
+      "product": "autodome_ip_5000_hd",
+      "extracted": [
+        [
+          "ip_5000_hd",
+          0.9784920334815979
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <soap-env:envelope><soap-env:header><wsa:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsa:action><wsa:messageid>uuid:604c474e-748c-0287-584d-0bb10d1d</wsa:messageid><wsa:relatesto>urn:uuid:<uuid></wsa:relatesto><wsa:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsa:to></soap-env:header><soap-env:body><d:probematch"
+    },
+    {
+      "id": 541780,
+      "product": "ipc-e616-ir@du-x33",
+      "extracted": [
+        [
+          "ad-3e-86",
+          0.9979485273361206
+        ],
+        [
+          "ipc-e616-ir",
+          0.9999479651451111
+        ],
+        [
+          "du-x33",
+          0.8698443323373795
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <soap-env:envelope><soap-env:header><wsa:messageid>urn:uuid:<uuid></wsa:messageid><wsa:relatesto>urn:uuid:<uuid></wsa:relatesto><wsa:to>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:to><wsa:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsa:action></soap-env:header><soap-env:body><tns:probematches><tns:probematch><wsa:endpointreferen"
+    },
+    {
+      "id": 571073,
+      "product": "dh-ipc-hfw1230s",
+      "extracted": [
+        [
+          "dh-ipc-hfw1230s-s5",
+          1.0000376059458806
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00o\\x02\\x00\\x00\\x00\\x00\\x00\\x00o\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"3c:e3:6b:c8:e4:4b\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"dh-ipc-hfw1230s-s5\",\"httpport\":80,\"port3\":80,\"port\":5978,\"ipv4address\":{\"defaultgateway\":\"60.244.241.126\",\"dhcpenable\""
+    },
+    {
+      "id": 154422,
+      "product": "b5111",
+      "extracted": [
+        [
+          "b5111 720p",
+          0.9700021147727966
+        ]
+      ],
+      "banner": "server: boa/0.94.14rc21 accept-ranges: bytes www-authenticate: basic realm=\"b5111 720p wired ir-bullet camera\" <html><head><title>401 unauthorized</title></head> <body><h1>401 unauthorized</h1> your client does not have permission to get url / from this server. </body></html>"
+    },
+    {
+      "id": 454743,
+      "product": "ic-9110w",
+      "extracted": [
+        [
+          "ic-9110w",
+          0.9999512076377869
+        ],
+        [
+          "sn9c292",
+          0.989306777715683
+        ]
+      ],
+      "banner": "brand: edimax prodfullname: ic-9110w network camera prodshortname: ic-9110w prodnbr: ic-9110w prodtype: network camera weburl: http://www.edimax.com version: v1.07 detailversion: v1.07 (apr 15 2015 14:24:14) camerafwversion: sn9c292_1.1.14.8edm builddate: 20150415 modelid: 58 vendorid: 0 autoupgradestatus: 0 updateurgenlevel: 0 deviceuptime: 110 days 18 hours 10 min 53 sec systemtime: <timestamp> "
+    },
+    {
+      "id": 465507,
+      "product": "cmip1132-28",
+      "extracted": [
+        [
+          "cmip1132-28",
+          0.9929466545581818
+        ],
+        [
+          "cm",
+          0.9896777272224426
+        ]
+      ],
+      "banner": "web_version: 3.1.51.140918 plugin_version: 3.0.5.21 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:embeddednetdevice:1 friendlyname: upnp cmip1132-28 - 499062845 manufacturer: upnp manufacturerurl: http://www.upnp.com modeldescription: ip camera modelname: upnp cmip1132-28 modelnumber: cmip1132-28 modelurl: http://www.upnp.com serialnumber: 499062845 udn: uuid:upnp-cmip1132-28-1_0-49906"
+    },
+    {
+      "id": 565979,
+      "product": "n42b3p4",
+      "extracted": [
+        [
+          "n",
+          0.9920968413352966
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xe5\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\xe5\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"method\":\"client.notifydevinfo\",\"mac\":\"14:a7:8b:22:27:83\",\"params\":{\"deviceinfo\":{\"deviceclass\":\"nvr\",\"devicetype\":\"n42b3p4\",\"serialno\":\"4a01a43paz5360a\",\"machinename\":\"nvr\",\"machinegroup\":\"\",\"manufacturer\":\"private\",\"port\":37777,\"httpport\":80,\"vendor\":\"private\",\"version\":\"4"
+    },
+    {
+      "id": 534694,
+      "product": "bd4330h",
+      "extracted": [
+        [
+          "bd4330h",
+          0.9818384051322937
+        ],
+        [
+          "bw20130116nsa",
+          0.8391982231821332
+        ]
+      ],
+      "banner": "server: mbedthis-appweb/2.4.2 <?xml version=\"1.0\" encoding=\"utf-8\"?> <soap-env:envelope><soap-env:body><tds:getdeviceinformationresponse><tds:manufacturer>beward</tds:manufacturer><tds:model>bd4330h</tds:model><tds:firmwareversion>bw20130116nsa</tds:firmwareversion><tds:serialnumber>004b40012ae7</tds:serialnumber><tds:hardwareid>001</tds:hardwareid></tds:getdeviceinformationresponse></soap-env:bod"
+    },
+    {
+      "id": 603884,
+      "product": "flexidome ip outdoor 5000 hd",
+      "extracted": [
+        [
+          "outdoor 5000 h",
+          0.8637208342552185
+        ]
+      ],
+      "banner": "<html><body>\\xff\\xfb\\x01\\xff\\xfb\\x03\\r\\n\\r\\nwelcome to flexidome ip outdoor 5000 hd 192.168.1.102 from 212.129.31.58\\r\\n</body></html>"
+    },
+    {
+      "id": 136726,
+      "product": "m1113",
+      "extracted": [
+        [
+          "axis m1113",
+          0.9989326745271683
+        ]
+      ],
+      "banner": "x-frame-options: sameorigin <!doctype html public \"-//w3c//dtd html 4.01 transitional//en\"> <html><head> <meta content=\"ie=10\"/> <meta content=\"requiresactivex=true\"/> <meta content=\"tue, 12 may 1962 1:00:00 gmt\"/> <meta content=\"no-cache\"/> <meta content=\"no-cache\"/> <meta content=\"text/html; charset=utf-8\"/> <meta content=\"en\"/> <title>axis m1113 network camera</title> <noscript> </noscript></he"
+    }
+  ],
+  "fn_examples": [],
+  "per_sample_path": "compare\\eval_0.1per_per_sample.jsonl"
+}

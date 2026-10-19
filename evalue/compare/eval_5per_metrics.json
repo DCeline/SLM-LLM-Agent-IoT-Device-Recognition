@@ -1,0 +1,272 @@
+{
+  "metrics": {
+    "total_samples": 13840,
+    "positive_samples": 8955,
+    "recall_hit_samples": 7433,
+    "correct_strings": 7367,
+    "false_positive_strings": 1036,
+    "extracted_empty_count": 5754,
+    "extracted_nonempty_count": 8086,
+    "exact_match_samples": 7088,
+    "recall": 0.830039084310441,
+    "precision": 0.8766852725210601,
+    "f1": 0.8527247389645963,
+    "exact_match_rate": 0.5121387283236994
+  },
+  "fp_examples": [
+    {
+      "id": 528444,
+      "product": "q6215-le ptz",
+      "extracted": [
+        [
+          "q6215-le",
+          0.9989050984382629
+        ]
+      ],
+      "banner": "<html><body>220 axis q6215-le ptz network camera 10.0.2 (2020) ready.\\r\\n</body></html>"
+    },
+    {
+      "id": 538660,
+      "product": "ds-2cd2083g0-i",
+      "extracted": [
+        [
+          "ds-2cd2083g0-i",
+          0.9966061353683472
+        ],
+        [
+          "ds-",
+          0.996770441532135
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <env:envelope><env:header><wsadis:messageid>urn:uuid:<uuid></wsadis:messageid> <wsadis:relatesto>urn:uuid:<uuid></wsadis:relatesto> <wsadis:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsadis:to> <wsadis:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsadis:action> </env:header> <env:body><d:probematches><d:probema"
+    },
+    {
+      "id": 578993,
+      "product": "dh-sd-6cabcdef-xyz-xy-abcd",
+      "extracted": [
+        [
+          "dh-sd-6cabcdef-xyz-",
+          0.9951016902923584
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\n\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\n\\x03\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"c0:39:5a:2c:dc:fa\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":2,\"alarmoutputchannels\":1,\"deviceclass\":\"sd\",\"deviceid\":\"\",\"devicetype\":\"dh-sd-6cabcdef-xyz-xy-abcd\",\"find\":\"ace\",\"findversion\":2,\"httpport\":8899,\"ipv4address\":{\"defaultgateway"
+    },
+    {
+      "id": 572976,
+      "product": "ipc-hdw1230c-a",
+      "extracted": [
+        [
+          "ipc-hdw1230c-a-v2",
+          0.9976580922420208
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00v\\x02\\x00\\x00\\x00\\x00\\x00\\x00v\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"bc:32:5f:72:16:10\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"ipc-hdw1230c-a-v2\",\"httpport\":80,\"port3\":80,\"port\":37777,\"ipv4address\":{\"defaultgateway\":\"192.168.0.1\",\"dhcpenable\":fa"
+    },
+    {
+      "id": 594264,
+      "product": "dh-sd-8a1840fa-hnt-d3e",
+      "extracted": [
+        [
+          "dh-sd-8a1840fa",
+          0.9962647954622904
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\t\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\t\\x03\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"3c:e3:6b:f4:3e:ee\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":7,\"alarmoutputchannels\":2,\"deviceclass\":\"sd\",\"deviceid\":\"\",\"devicetype\":\"dh-sd-8a1840fa-hnt-d3e\",\"find\":\"ace\",\"findversion\":2,\"httpport\":8090,\"ipv4address\":{\"defaultgateway\":\"1"
+    },
+    {
+      "id": 439086,
+      "product": "cs-c2-21wpfr",
+      "extracted": [
+        [
+          "cs-c2-21wpfr",
+          0.9979765564203262
+        ],
+        [
+          "cs-",
+          0.9975311160087585
+        ]
+      ],
+      "banner": "major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:embeddednetdevice:1 friendlyname: hikvision cs-c2-21wpfr - 482079887 manufacturer: hikvision manufacturerurl: http://www.hikvision.com modeldescription: ip camera modelname: hikvision cs-c2-21wpfr modelnumber: cs-c2-21wpfr modelurl: http://www.hikvision.com serialnumber: 482079887 udn: uuid:upnp-cs-c2-21wpfr-1_0-482079887 servicetype: urn:s"
+    },
+    {
+      "id": 542220,
+      "product": "ds-2cd7t47ynb-lzs",
+      "extracted": [
+        [
+          "ds-2cd7t47ynb-lzs",
+          0.9050914645195007
+        ],
+        [
+          "ds-2cd7t47ynb-",
+          0.9781411344354803
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <env:envelope><env:header><wsadis:messageid>urn:uuid:<uuid></wsadis:messageid> <wsadis:relatesto>urn:uuid:<uuid></wsadis:relatesto> <wsadis:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsadis:to> <wsadis:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsadis:action> </env:header> <env:body><d:probematches><d:probema"
+    },
+    {
+      "id": 536999,
+      "product": "ds-2cd2t43g0-i8",
+      "extracted": [
+        [
+          "ds-2cd2t43g0-i8",
+          0.9925768971443176
+        ],
+        [
+          "ds-",
+          0.9639783700307211
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <env:envelope><env:header><wsadis:messageid>urn:uuid:<uuid></wsadis:messageid> <wsadis:relatesto>urn:uuid:<uuid></wsadis:relatesto> <wsadis:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsadis:to> <wsadis:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsadis:action> </env:header> <env:body><d:probematches><d:probema"
+    },
+    {
+      "id": 596408,
+      "product": "ipc-hdw2433dt-a-led",
+      "extracted": [
+        [
+          "ipc-hdw2433dt-a-led-v2",
+          0.9982499480247498
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xf9\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\xf9\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"08:ed:ed:9f:d3:1b\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"deviceid\":\"\",\"devicetype\":\"ipc-hdw2433dt-a-led-v2\",\"find\":\"ace\",\"findversion\":2,\"httpport\":80,\"ipv4address\":{\"defaultgateway\""
+    },
+    {
+      "id": 565989,
+      "product": "dh-sd4423-dp-i",
+      "extracted": [
+        [
+          "dh-sd4423",
+          0.9868767261505127
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x01\\x03\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"f4:b1:c2:be:4f:12\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":2,\"alarmoutputchannels\":1,\"deviceclass\":\"sd\",\"deviceid\":\"\",\"devicetype\":\"dh-sd4423-dp-i\",\"find\":\"ace\",\"findversion\":2,\"httpport\":80,\"ipv4address\":{\"defaultgateway\":\"183.250"
+    },
+    {
+      "id": 537737,
+      "product": "ds-2cd5a26efwd-izs",
+      "extracted": [
+        [
+          "ds-2cd5a26efwd-izs",
+          0.9984398732582728
+        ],
+        [
+          "ds-2cd5a26efwd-iz",
+          0.9982672383387884
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <env:envelope><env:header><wsadis:messageid>urn:uuid:<uuid></wsadis:messageid> <wsadis:relatesto>urn:uuid:<uuid></wsadis:relatesto> <wsadis:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsadis:to> <wsadis:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsadis:action> </env:header> <env:body><d:probematches><d:probema"
+    },
+    {
+      "id": 592598,
+      "product": "dh-sd-6cabcdef-xyz-xy",
+      "extracted": [
+        [
+          "dh-sd-6cabcdef-xy",
+          0.9965672492980957
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xe3\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\xe3\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"a0:bd:1d:65:fc:b5\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":2,\"alarmoutputchannels\":1,\"deviceclass\":\"sd\",\"deviceid\":\"\",\"devicetype\":\"dh-sd-6cabcdef-xyz-xy\",\"find\":\"ace\",\"findversion\":2,\"httpport\":8089,\"ipv4address\":{\"defaultgateway\""
+    },
+    {
+      "id": 530593,
+      "product": "q6042-c",
+      "extracted": [
+        [
+          "q6042",
+          0.6635137597719828
+        ]
+      ],
+      "banner": "<html><body>220 axis q6042-c ptz dome network camera 5.70.1.1 (2015) ready.\\r\\n</body></html>"
+    },
+    {
+      "id": 539596,
+      "product": "ali-fb41-ua",
+      "extracted": [
+        [
+          "ali-fb41-",
+          0.9940974712371826
+        ],
+        [
+          "ali-fb41-ua",
+          0.9976327121257782
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <soap-env:envelope><soap-env:header><wsa:messageid>urn:uuid:<uuid>-50dcd000ea98</wsa:messageid><wsa:relatesto>urn:uuid:<uuid></wsa:relatesto><wsa:to>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsa:to><wsa:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsa:action></soap-env:header><soap-env:body><tns:probematches><tns"
+    },
+    {
+      "id": 577118,
+      "product": "dh-ipc-hfw54xyzf1y-abc",
+      "extracted": [
+        [
+          "dh",
+          0.7890157699584961
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00%\\x03\\x00\\x00\\x00\\x00\\x00\\x00%\\x03\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"f4:b1:c2:82:e2:54\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"abroadinfo\":\"mainland\",\"alarminputchannels\":2,\"alarmoutputchannels\":2,\"deviceclass\":\"ipc\",\"deviceid\":\"\",\"devicetype\":\"dh-ipc-hfw54xyzf1y-abc\",\"find\":\"ace\",\"findversion\":2,\"httpport\":80,\"ipv4address\""
+    },
+    {
+      "id": 541780,
+      "product": "ipc-e616-ir@du-x33",
+      "extracted": [
+        [
+          "ipc-e616-ir",
+          0.9960191760744367
+        ],
+        [
+          "ipc-e616-ir@du-x33",
+          0.9238597055276235
+        ]
+      ],
+      "banner": "<?xml version=\"1.0\" encoding=\"utf-8\"?> <soap-env:envelope><soap-env:header><wsa:messageid>urn:uuid:<uuid></wsa:messageid><wsa:relatesto>urn:uuid:<uuid></wsa:relatesto><wsa:to>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:to><wsa:action>http://schemas.xmlsoap.org/ws/2005/04/discovery/probematches</wsa:action></soap-env:header><soap-env:body><tns:probematches><tns:probematch><wsa:endpointreferen"
+    },
+    {
+      "id": 588108,
+      "product": "ipc-hfw2230s-s-s2",
+      "extracted": [
+        [
+          "ipc-hfw2230s-",
+          0.9984144369761149
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x1a\\x03\\x00\\x00\\x00\\x00\\x00\\x00\\x1a\\x03\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"24:52:6a:1a:fe:ac\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"abroadinfo\":\"oversea\",\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"deviceid\":\"\",\"devicetype\":\"ipc-hfw2230s-s-s2\",\"find\":\"bc\",\"findversion\":1,\"httpport\":80,\"ipv4address\":"
+    },
+    {
+      "id": 562439,
+      "product": "dh-ipc-hdbw1831rp-s",
+      "extracted": [
+        [
+          "dh",
+          0.8354037404060364
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\xbe\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\xbe\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"9c:14:63:d9:d1:48\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":0,\"alarmoutputchannels\":0,\"deviceclass\":\"ipc\",\"devicetype\":\"dh-ipc-hdbw1831rp-s\",\"find\":\"b\",\"httpport\":33080,\"ipv4address\":{\"defaultgateway\":\"193.107.73.1\",\"dhcpenable\":fal"
+    },
+    {
+      "id": 392378,
+      "product": "tv-ip311pi",
+      "extracted": [
+        [
+          "tv-",
+          0.9825066924095154
+        ],
+        [
+          "tv-ip311pi",
+          0.9982439517974854
+        ]
+      ],
+      "banner": "npvideostream.dll: 3,0,5,52 videostream.ocx: 3,0,5,52 playctrl.dll: 7,2,1,54 streamtransclient.dll: 1,1,2,18 systemtransform.dll: 2,4,0,8 netstream.dll: 1,0,5,29 audiointercom.dll: 1,1,0,8 major: 1 minor: 0 devicetype: urn:schemas-upnp-org:device:digitalsecuritycamera:1 friendlyname: upnp tv-ip311pi - 099248815 manufacturer: upnp manufacturerurl: http://www.upnp.com modeldescription: ip camera mod"
+    },
+    {
+      "id": 578295,
+      "product": "cp-unc-tb20fl6-vmd",
+      "extracted": [
+        [
+          "cp-unc-tb20",
+          0.9880554590906415
+        ]
+      ],
+      "banner": "<html><body>\\x00\\x00\\x00dhip\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x9d\\x02\\x00\\x00\\x00\\x00\\x00\\x00\\x9d\\x02\\x00\\x00\\x00\\x00\\x00\\x00{\"mac\":\"14:07:08:1b:cb:4b\",\"method\":\"client.notifydevinfo\",\"params\":{\"deviceinfo\":{\"alarminputchannels\":1,\"alarmoutputchannels\":1,\"deviceclass\":\"ipc\",\"devicetype\":\"cp-unc-tb20fl6-vmd\",\"httpport\":80,\"ipv4address\":{\"defaultgateway\":\"192.168.1.1\",\"dhcpenable\":false,\"ipaddress\":\""
+    }
+  ],
+  "fn_examples": [],
+  "per_sample_path": "compare\\eval_5per_per_sample.jsonl"
+}

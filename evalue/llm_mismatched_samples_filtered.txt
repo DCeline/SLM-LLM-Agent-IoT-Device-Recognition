@@ -1,0 +1,2061 @@
+Product: q6215-le ptz
+LLM Result: q6215-le
+
+Product: ipc-hdw1230c-a
+LLM Result: ipc-hdw1230c-a-v2
+
+Product: ipc-hdw2433dt-a-led
+LLM Result: ipc-hdw2433dt-a-led-v2
+
+Product: dh-sd-6c3432xb-hnr
+LLM Result: dh-sd-6c3432xb-hnr-1t
+
+Product: dh-ipc-hfw54xyzf1y-abc
+LLM Result: dh-ipc-hfw54xyzf1y
+
+Product: ipc-e616-ir@du-x33
+LLM Result: ad-3e-86
+
+Product: p1365
+LLM Result: p1365 mk ii
+
+Product: dh-ipc-hfw1230s
+LLM Result: dh-ipc-hfw1230s-s5
+
+Product: flexidome_ip_micro_5000_hd
+LLM Result: micro 5000
+
+Product: ts-wlc2
+LLM Result: iodata
+
+Product: ipc-hdbw2231r-zs-s2
+LLM Result: ipc-hdbw2231r-zs
+
+Product: ipc-hdw1235c-a
+LLM Result: dh-ipc-hdw1235c-a-v5
+
+Product: hic7622-irl
+LLM Result: hic7622-irl@x44-l-vf
+
+Product: gxv3610_hd
+LLM Result: gxv3610
+
+Product: rvi-ipc43l v.2 (2.7-12)
+LLM Result: rvi-ipc43l
+
+Product: vca6702
+LLM Result: i300aa21c
+
+Product: ipc-hdw1230c-a
+LLM Result: dh-ipc-hdw1230c-a-v4
+
+Product: ds-2df7284
+LLM Result: ds-2df7284-ael
+
+Product: autodome_ip_7000_hd
+LLM Result: ip 7000 h
+
+Product: dh-sd-6c3230t-hn
+LLM Result: dh-sd-6c3230t-hn-xc
+
+Product: ds-2cd2043g2-i
+LLM Result: ds-2cd2043g2
+
+Product: ds-2df824jtccix-afw
+LLM Result: ds-2df824jtccix-afw/s1
+
+Product: ipc-hdbw2231r-zs-s2
+LLM Result: ipc-hdbw2231r-zs
+
+Product: ic-9110w v2
+LLM Result: ic-9110w
+
+Product: gxv3611ir hd
+LLM Result: gxv3611ir
+
+Product: ipc-hfw2230s-s-s2
+LLM Result: dh-ipc-hfw2230s-s-s2
+
+Product: dh-ipc-hfw3441mp-as-i2
+LLM Result: dh-ipc-hfw3441mp-as
+
+Product: dcs-3220
+LLM Result: dcs-5300
+
+Product: flexidome_ndn-498-p
+LLM Result: ndn-498-p
+
+Product: bu-3025
+LLM Result: realm
+
+Product: vca6702
+LLM Result: ipn6702hd
+
+Product: dcs-930lb1
+LLM Result: dcs-930lb
+
+Product: dh-psdw81649m-a360-d440
+LLM Result: dh-psdw81649m-a360-d440-hl
+
+Product: flexidome ip micro 2000 hd
+LLM Result: flex
+
+Product: ipc-hfw2230s-s-s2
+LLM Result: dh-ipc-hfw2230s-s-s2
+
+Product: gv-fer5302/3
+LLM Result: gv-fer5302
+
+Product: hic7682-irl
+LLM Result: hic7682-irl@x40-l-vf
+
+Product: sd5a445xa-hnr
+LLM Result: dh-sd5a445xa-hnr
+
+Product: q6045-e
+LLM Result: q6045-e mk ii
+
+Product: ds-2cd2710f-is
+LLM Result: hikvision ds-2cd2710f-is
+
+Product: autodome_ip_7000_hd
+LLM Result: 7000 hd
+
+Product: ds-2de2q140mz-t
+LLM Result: ds-2de2q140mz-t/glse
+
+Product: q6045-e
+LLM Result: q6045-e mk ii
+
+Product: dh-ipc-hfw1230s
+LLM Result: dh-ipc-hfw1230s-s5
+
+Product: ipc324le-dsf28k-g
+LLM Result: ipc324le-
+
+Product: dh-sd-7c343xa-hna-bq
+LLM Result: dh-sd-7c343xa
+
+Product: p5635-e
+LLM Result: p5635-e mk ii
+
+Product: ip_bullet_4000_hd
+LLM Result: bullet 4000
+
+Product: bi-3500ipm-ai2.0
+LLM Result: bi-3500ipm-ai
+
+Product: ipc-b1a20
+LLM Result: ipc-b1b20
+
+Product: vca6802
+LLM Result: ipn6802hd
+
+Product: ds-2cd1143g0e-i
+LLM Result: ds-2cd1143g0e
+
+Product: hik-ip6420f-iw
+LLM Result: 
+
+Product: ds-2cd2342wd-i
+LLM Result: ds-2cd2010-i
+
+Product: ipc-hfw2633dm1-a-i2
+LLM Result: ipc-hfw2633dm1-
+
+Product: ipc-hfw1431s
+LLM Result: ipc-hfw1431s-0280b-s4
+
+Product: ipc-hfw2235m-i2-v2
+LLM Result: ipc-hfw2235m-i
+
+Product: wcs-2040
+LLM Result: wcs-2040 p/t
+
+Product: cp-unp-2013tl10
+LLM Result: cp-unp-2013tl10-p
+
+Product: ipc-hfw2531t-zs-s2
+LLM Result: ipc-hfw2531t-zs
+
+Product: autodome_ip_7000_hd
+LLM Result: ip 7000
+
+Product: zn-dnt352xe-mir
+LLM Result: ipn3502hdir
+
+Product: hu-np241/i3
+LLM Result: hu-
+
+Product: rvi-ipc52z12_v.2
+LLM Result: rvi-ipc52z12
+
+Product: 211
+LLM Result: 211m
+
+Product: dh-ipc-hfw1230s
+LLM Result: dh-ipc-hfw1230s-s5
+
+Product: ipc-hfw1235m-i2
+LLM Result: ipc-hfw1235m-i2-v2
+
+Product: vca6702
+LLM Result: 
+
+Product: vd-300np
+LLM Result: vd-300
+
+Product: ds-2td8136-100c2f
+LLM Result: ds-2td8136-100c2f/v2
+
+Product: cs-c6n-d0-8b4wf
+LLM Result: cs-c6n-d0-8b4
+
+Product: amtk-ah5723d-d01i
+LLM Result: ah5723d-d01i
+
+Product: dh-sd-8a1840we-hnf
+LLM Result: dh-sd-8a1840we-hnf-eghj
+
+Product: p5635-e
+LLM Result: p5635-e mk ii
+
+Product: ds-2cd2020f-i
+LLM Result: ds-2cd2020f
+
+Product: ipc-b1a20
+LLM Result: ipc-b1b20
+
+Product: ipc-b1a20
+LLM Result: ipc-b1b20
+
+Product: dh-sd-6c3223ui-gn-gq
+LLM Result: dh-sd-6c3223ui
+
+Product: cnpilot-r200p
+LLM Result: ilot-r200p
+
+Product: ptx10001
+LLM Result: nptx10001-01-rt
+
+Product: lte3301-plus
+LLM Result: te3301-plus
+
+Product: mx10003
+LLM Result: c-bb-per-bre-003-mx10003
+
+Product: airrouter hp
+LLM Result: cairrouter hp
+
+Product: m80v1_en
+LLM Result: m80v1
+
+Product: tl-r478+
+LLM Result: tl-r478+,
+
+Product: ar440s
+LLM Result: at-ar440s
+
+Product: rb1100ah
+LLM Result: cashmere-fiber-rb1100ah
+
+Product: m50v2_en
+LLM Result: m50v2
+
+Product: p-660r
+LLM Result: p-660r-f1
+
+Product: rv6699
+LLM Result: nrv6699
+
+Product: wrc-733febk
+LLM Result: wrc-733
+
+Product: m50v2_en
+LLM Result: m50v2
+
+Product: telepresence mcu 4501
+LLM Result: mcu 4501
+
+Product: cnp-wf514n1a
+LLM Result: wf514n1a
+
+Product: gr3200
+LLM Result: h3c gr3200
+
+Product: br200
+LLM Result: nighthawk(r)
+
+Product: ntc-5908
+LLM Result: c-5908
+
+Product: w921v
+LLM Result: speedport w 921v
+
+Product: tw-eav510
+LLM Result: tw-eav510 ac
+
+Product: airrouter hp
+LLM Result: cairrouter hp
+
+Product: n151rt-v2
+LLM Result: n151rt
+
+Product: ccr1036-12g-4s
+LLM Result: wlk-ccr1036-12g-4s
+
+Product: rv016
+LLM Result: ysrv016
+
+Product: rt-n12 vp
+LLM Result: rt-n12
+
+Product: dwr-m960
+LLM Result: wr-m960
+
+Product: 4g-ac53u
+LLM Result: 4g-ac53u-77dc
+
+Product: wndr3800
+LLM Result: gh-wndr3800
+
+Product: archer c1900
+LLM Result: ac1900
+
+Product: rt-ac1200_v2
+LLM Result: rt-ac1200
+
+Product: rt-n18u
+LLM Result: rt-n18u-eb94
+
+Product: dsl-n10s
+LLM Result: dsl-n10s_b
+
+Product: gt-ax11000
+LLM Result: t-ax11000
+
+Product: fritz!box 7590 ax
+LLM Result: fritz!box 7590
+
+Product: re210
+LLM Result: ac750
+
+Product: rt-ac68p
+LLM Result: rt-ac68p-f980
+
+Product: dwr-m961
+LLM Result: wr-m961
+
+Product: n300
+LLM Result: nlk29h
+
+Product: rt-n11p
+LLM Result: rt-n11p-acec
+
+Product: rt-ac66u_b1
+LLM Result: rt-ac66u
+
+Product: rt-ac52u_b1
+LLM Result: rt-ac52u
+
+Product: 4g-ac55u
+LLM Result: 
+
+Product: rt-ax56u
+LLM Result: rt-ax56u-fdf0
+
+Product: rt-n13u
+LLM Result: rt-n13u.b1
+
+Product: tuf-ax3000 v2
+LLM Result: tuf-ax3000
+
+Product: tl-wr842n
+LLM Result: wr842n-v5
+
+Product: dsl-n10
+LLM Result: sl-n10
+
+Product: tl-wdr4300
+LLM Result: wdr4300
+
+Product: dsl-n12u
+LLM Result: sl-n12u
+
+Product: rt-n12hp_b1
+LLM Result: rt-n12hp
+
+Product: rt-ac52u_b1
+LLM Result: rt-ac52u
+
+Product: rt-ax68u
+LLM Result: rt-ax68u-70c0
+
+Product: rt-ac1200gu
+LLM Result: rt-ac1200gu-3184
+
+Product: tl-wr940n
+LLM Result: wr940n
+
+Product: tuf gaming ax6000
+LLM Result: ax6000
+
+Product: rt ac1900p 
+LLM Result: rt-ac1900p-4ea8
+
+Product: rt-ax88u
+LLM Result: rt-ax88u-d388
+
+Product: tl-wr841n
+LLM Result: wr841n
+
+Product: tl-wdr7500
+LLM Result: wdr7500
+
+Product: tuf-ax3000 v2
+LLM Result: tuf-ax3000
+
+Product: dsl-n55u_c1
+LLM Result: dsl-n55u
+
+Product: rt-ac66u b1
+LLM Result: rt-ac66u
+
+Product: wrt160n
+LLM Result: rt160n
+
+Product: rt-ac3100
+LLM Result: rt-ac3100-7800
+
+Product: atermwg1200hs
+LLM Result: wnc-nmr0438
+
+Product: dwr-m953
+LLM Result: wr-m953
+
+Product: tl-wdr7650千兆易展版
+LLM Result: tl-wdr7660
+
+Product: mbr1200
+LLM Result: cradlepoint mbr1200
+
+Product: tg799vn
+LLM Result: mediaaccess
+
+Product: wrt400n
+LLM Result: rt400n
+
+Product: wndr3800
+LLM Result: gh-wndr3800
+
+Product: l-54g
+LLM Result: l-54g wireless
+
+Product: rt-ac58u
+LLM Result: rt-ac58u-ba1c
+
+Product: tl-wr850n
+LLM Result: wr850n
+
+Product: l-54g
+LLM Result: l-54g wireless
+
+Product: tl-wr940n
+LLM Result: wr940n
+
+Product: l-54g
+LLM Result: l-54g wireless
+
+Product: rt-ac1200 v2
+LLM Result: rt-ac1200
+
+Product: archer c6
+LLM Result: c6
+
+Product: lyra voice
+LLM Result: lyra
+
+Product: tl-wr741nd
+LLM Result: ftl-wr741nd
+
+Product: archer c5
+LLM Result: cher_c5
+
+Product: rt-ac55uhp
+LLM Result: rt-ac55uhp-83ec
+
+Product: wrt1900acs
+LLM Result: ys-wrt1900acs
+
+Product: ir-adv c250
+LLM Result: ir-adv c250/350 ufr ii
+
+Product: pagewide 377dw mfp - j9v80a
+LLM Result: pagewide 377dw mfp
+
+Product: mp 2352
+LLM Result: aficio mp 2352
+
+Product: envy 4520 series - f0v69a
+LLM Result: envy 4520
+
+Product: laserjet 200 colormfp m276n
+LLM Result: laserjet 200
+
+Product: color laserjet flow e87660
+LLM Result: color laserjet
+
+Product: mf440 series
+LLM Result: mf440
+
+Product: es4172lp
+LLM Result: es4172lp mfp
+
+Product: s2825cdn
+LLM Result: color mfp
+
+Product: photosmart b110
+LLM Result: b110
+
+Product: docuprint m455 df
+LLM Result: docuprint m455
+
+Product: es4172lp
+LLM Result: es4172lp mfp
+
+Product: color laserjet cp5520
+LLM Result: 
+
+Product: laserjet m607
+LLM Result: hp_compact_server
+
+Product: laserjet cp5225n
+LLM Result: hp color laserjet cp5225n
+
+Product: ecosys m3655idn
+LLM Result: m3655idn
+
+Product: pagewide color flow mfp 785
+LLM Result: hp_compact_server
+
+Product: mp c3503 jpn
+LLM Result: mp c3503
+
+Product: laserjet mfp m377dw
+LLM Result: hp color laserjet mfp m377dw
+
+Product: multiwriter 5750c
+LLM Result: nec multiwriter 5750c
+
+Product: color laserjet flow e77830
+LLM Result: 
+
+Product: laserjet mfp m72630dn
+LLM Result: hp laserjet mfp m72630dn
+
+Product: laserjet 400 color m451dn
+LLM Result: laserjet 400
+
+Product: mf633c/635c
+LLM Result: mf633c
+
+Product: es8473
+LLM Result: es8473 mfp
+
+Product: b1165nfw
+LLM Result: mfp b1165nfw
+
+Product: officejet 3830 series - k7v40a
+LLM Result: officejet 3830
+
+Product: m425dn
+LLM Result: laserjet 400 mfp m425dn
+
+Product: laserjet m255nw
+LLM Result: hp color laserjet m255nw
+
+Product: officejet pro x476dn mfp - cn460a
+LLM Result: officejet pro x476dn
+
+Product: envy 5660
+LLM Result: envy 56
+
+Product: mf110/910 series
+LLM Result: mf110/910
+
+Product: laserjet mfp m281fdw
+LLM Result: hp color laserjet mfp m281fdw
+
+Product: ir-adv c5550 III
+LLM Result: ir
+
+Product: officejet 6500 e710a-f - cn555a
+LLM Result: officejet 6500 e710a-f
+
+Product: ir-adv c3525
+LLM Result: ir-adv c3525/3530
+
+Product: ir-adv 4525 III
+LLM Result: ir-adv 4525
+
+Product: color laserjet mfp m181fw
+LLM Result: hp color laserjet mfp m181fw
+
+Product: taskalfa 2552ci
+LLM Result: taskalfa 2552ci(j)
+
+Product: officejet 7510 series - g3j47a
+LLM Result: officejet 7510
+
+Product: m c2000
+LLM Result: m c2000 (5ecefb)
+
+Product: mfc-j3520
+LLM Result: mfc
+
+Product: photosmart c309a
+LLM Result: c309a
+
+Product: m2070 series
+LLM Result: m2070
+
+Product: ir-adv c250
+LLM Result: c250
+
+Product: clp-680 series
+LLM Result: clp-680
+
+Product: docuprint cp405 d
+LLM Result: docuprint
+
+Product: officejet 7510 series - g3j47a
+LLM Result: officejet 7510
+
+Product: ecosys p2040dn
+LLM Result: ecosys p2040dw
+
+Product: officejet 6500 e710a-f - cn555a
+LLM Result: officejet 6500 e710a-f
+
+Product: mf6500 serie
+LLM Result: f6500
+
+Product: ecosys m5521cdn
+LLM Result: m5521cdn
+
+Product: wf-c21000 series
+LLM Result: wf-c21000
+
+Product: pagewide pro 552 printer
+LLM Result: pagewide pro 552
+
+Product: laserjet m255nw
+LLM Result: hp color laserjet m255nw
+
+Product: fs-1060dn
+LLM Result: fs-1061dn
+
+Product: laserjet 400 color m451dw
+LLM Result: laserjet 400
+
+Product: pagewide pro 477dw
+LLM Result: pagewide pro 477dw mfp
+
+Product: es5473
+LLM Result: es5473 mfp
+
+Product: officejet pro 8660 - e1d36a
+LLM Result: officejet pro 8660
+
+Product: epl-6200
+LLM Result: epl-6200-bb027f
+
+Product: officejet pro 8740 - k7s42a
+LLM Result: officejet pro 8740
+
+Product: officejet pro 8740 - k7s42a
+LLM Result: officejet pro 8740
+
+Product: color laserjet pro m478f-9f
+LLM Result: color laserjet pro m478f
+
+Product: laserjet mfp m477fnw
+LLM Result: m477fnw
+
+Product: ir-adv c5535
+LLM Result: ir-adv c55
+
+Product: color laserjet 4730mfp
+LLM Result: hp color laserjet 4730mfp series
+
+Product: laserjet 400 color m451dn
+LLM Result: laserjet 400
+
+Product: hl-4040cdn series
+LLM Result: hl-4040cdn
+
+Product: laserjet mfp m227fdw
+LLM Result: laserjet mfp m227
+
+Product: color laser 2500
+LLM Result: color laser 150
+
+Product: m1212nf
+LLM Result: laserjet professional
+
+Product: color laser 3110cn
+LLM Result: 3110cn
+
+Product: envy 5540 series
+LLM Result: envy 5540
+
+Product: c312
+LLM Result: c315
+
+Product: apeosport-iii c4400
+LLM Result: c4400
+
+Product: pagewide pro 477dn mfp - d3q19a
+LLM Result: pagewide pro 477dn mfp
+
+Product: wf-m5799 series
+LLM Result: wf-m5799
+
+Product: officejet pro 8720 - m9l75a
+LLM Result: officejet pro 8720
+
+Product: phaser 6360n
+LLM Result: 6360n
+
+Product: laserjet 200 colormfp m276nw
+LLM Result: laserjet 200
+
+Product: laserjet m154nw
+LLM Result: hp color laserjet m154nw
+
+Product: hl-2130
+LLM Result: brother hl-2130_series
+
+Product: laserjet mfp m477fdw
+LLM Result: hp color laserjet mfp m477fdw
+
+Product: mx310dn
+LLM Result: rm-08382-l310-z
+
+Product: officejet pro 8210 - d9l64a
+LLM Result: officejet pro 8210
+
+Product: imagerunner1133 series
+LLM Result: imagerunner1133
+
+Product: m 2701
+LLM Result: m 2701 (51d8
+
+Product: m337x 387x 407x
+LLM Result: m337x
+
+Product: dh-xvr5432l-x
+LLM Result: dh-xvr5432l
+
+Product: dh-xvr5108hs-4kl-x
+LLM Result: dh-xvr5108hs
+
+Product: laserjet mfp m281fdw
+LLM Result: hp color laserjet mfp m281fdw
+
+Product: fu hdtvi 8004f1-s3 4ch
+LLM Result: fu hdtvi 8004f1-s3
+
+Product: dh-xvr5104c
+LLM Result: dh-xvr5104c-x1
+
+Product: dh-xvr5216an-4kl
+LLM Result: dh-xvr5216an
+
+Product: dh-xvr5216a
+LLM Result: dh-xvr5216a-i3
+
+Product: dh-xvr4104hs
+LLM Result: dh-xvr4104hs-i
+
+Product: color laserjet m254dw
+LLM Result: hp color laserjet m254dw
+
+Product: cm-twx6232an-i3
+LLM Result: cm-twx6232an
+
+Product: dh-xvr5208an-4kl
+LLM Result: dh-xvr5208an
+
+Product: dh-xvr5116h-4kl
+LLM Result: dh-xvr5116h
+
+Product: dh-xvr4232an-x
+LLM Result: dh-xvr4232an
+
+Product: dh-xvr7104he-4kl-x
+LLM Result: dh-xvr7104he
+
+Product: dh-xvr5816s-x
+LLM Result: dh-xvr5816s
+
+Product: xvr5104hs-i3
+LLM Result: kisxvr5104hs
+
+Product: dh-xvr5108hs-x
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr5108hs-4kl
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr5216a-4kl-i3
+LLM Result: dh-xvr5216a-4kl
+
+Product: kp-tvi9008hiv2
+LLM Result: kp-tvi9008hiv2(i/o)
+
+Product: dh-xvr4108c-x1
+LLM Result: dh-xvr4108c
+
+Product: ds-7916hgh-f4
+LLM Result: ds-7916hqh-f4/n
+
+Product: le800
+LLM Result: lupustec-le8004k
+
+Product: dh-xvr5816s-x
+LLM Result: dh-xvr5816s
+
+Product: dh-xvr5108hs-i3
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr5104hs-4kl-x
+LLM Result: dh-xvr5104hs
+
+Product: dh-xvr5104h
+LLM Result: dh-xvr5104h-i
+
+Product: dh-xvr4104hs
+LLM Result: dh-xvr4104hs-x1
+
+Product: dhi-hcvr5108he-s2
+LLM Result: dhi-hcvr5108he
+
+Product: dh-xvr4116hs-x
+LLM Result: dh-xvr4116hs
+
+Product: divar ip 2000
+LLM Result: ip 2000
+
+Product: dh-xvr5116h-4kl-x
+LLM Result: dh-xvr5116h
+
+Product: dh-xvr5116hs-x
+LLM Result: dh-xvr5116hs
+
+Product: dhi-xvr5116hs-s2
+LLM Result: dhi-xvr5116hs
+
+Product: dhi-xvr5232an-s2
+LLM Result: dhi-xvr5232an
+
+Product: dh-xvr7116he-4kl-x
+LLM Result: dh-xvr7116he
+
+Product: dh-xvr5104he-x
+LLM Result: dh-xvr5104he
+
+Product: dh-xvr7116he-4kl-x
+LLM Result: dh-xvr7116he
+
+Product: dhi-xvr5216an-4kl-i2
+LLM Result: dhi-xvr5216an
+
+Product: dh-xvr5116hs-x
+LLM Result: dh-xvr5116hs
+
+Product: dh-xvr4232an-x
+LLM Result: dh-xvr4232
+
+Product: dh-xvr5216a
+LLM Result: dh-xvr5216a-x
+
+Product: dh-xvr5104hs-i3
+LLM Result: dh-xvr5104hs
+
+Product: dh-xvr5104hs-x
+LLM Result: dh-xvr5104hs
+
+Product: ds-7208hqhi-k1+4audio
+LLM Result: ds-7208hqhi-k1+
+
+Product: dh-xvr5108hs-4kl
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr4108hs-x
+LLM Result: dh-xvr4108hs
+
+Product: dh-xvr5216an-4kl
+LLM Result: dh-xvr5216an
+
+Product: dh-xvr4116hs-x
+LLM Result: dh-xvr4116hs
+
+Product: dh-xvr4108c-x1
+LLM Result: dh-xvr4108c
+
+Product: dh-xvr5216an-i2
+LLM Result: dh-xvr5216an
+
+Product: dh-xvr5108hs-4kl
+LLM Result: dh-xvr5108hs
+
+Product: ds-7616huhi-f2/n+16audio
+LLM Result: ds-7616huhi-f2/n+
+
+Product: dh-xvr4108c-x
+LLM Result: dh-xvr4108c
+
+Product: dh-xvr5104c-x
+LLM Result: dh-xvr5104c
+
+Product: dh-xvr4108hs-x1
+LLM Result: dh-xvr4108hs
+
+Product: dh-xvr5108c-x
+LLM Result: dh-xvr5108c
+
+Product: dh-xvr5108hs-x
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr5108he-x
+LLM Result: dh-xvr5108he
+
+Product: cp-uvr-0401k1
+LLM Result: cp-uvr-0401k1-v4
+
+Product: dvr-204q-k1
+LLM Result: ds-hilooki-dvr-204q-k1
+
+Product: dh-xvr5108h-4kl
+LLM Result: dh-xvr5108h
+
+Product: dh-xvr5108hs-i2
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr5216an-i2
+LLM Result: dh-xvr5216an
+
+Product: dh-xvr5108hs-4kl-x
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr5816s-x
+LLM Result: dh-xvr5816s
+
+Product: dhi-xvr5108he-s2
+LLM Result: dhi-xvr5108he
+
+Product: cm-twx6116he-i3
+LLM Result: cm-twx6116he
+
+Product: hxvr-5104hs-x1
+LLM Result: td-hxvr-5104hs-x1
+
+Product: dh-xvr5104hs-x
+LLM Result: dh-xvr5104hs
+
+Product: dh-xvr5104h-4kl-x
+LLM Result: dh-xvr5104h
+
+Product: le800
+LLM Result: lupustec-le8004k
+
+Product: cvr16com
+LLM Result: d92_cvr16
+
+Product: dhd-3304 poc
+LLM Result: dhd-3304
+
+Product: xvr6104s-1face
+LLM Result: xs-xvr6104s-1face
+
+Product: dhi-hcvr7108he-s2
+LLM Result: dhi-hcvr7108he
+
+Product: dh-xvr5104hs-i3
+LLM Result: dh-xvr5104hs
+
+Product: dh-xvr5104hs-4kl-i2
+LLM Result: dh-xvr5104hs
+
+Product: dh-xvr7116he-4kl-x
+LLM Result: dh-xvr7116he
+
+Product: dh-xvr5108hs-i3
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr4108hs-x1
+LLM Result: dh-xvr4108hs
+
+Product: dh-xvr5108hs-4kl
+LLM Result: dh-xvr5108hs
+
+Product: cp-uvr-0401e1
+LLM Result: cp-uvr-0401e1-cs
+
+Product: dh-xvr5216an-i3
+LLM Result: dh-xvr5216an
+
+Product: dh-xvr4104hs
+LLM Result: dh-xvr4104hs-x1
+
+Product: dh-xvr5108hs-x
+LLM Result: dh-xvr5108hs
+
+Product: vip-s3020
+LLM Result: vip-s3020-g3
+
+Product: dh-xvr5432l-x
+LLM Result: dh-xvr5432l
+
+Product: dh-xvr5108hs-4kl
+LLM Result: dh-xvr5108hs
+
+Product: hs-xvr8510hs-i3
+LLM Result: hs-xvr8510hs
+
+Product: dh-xvr5104hs-i2
+LLM Result: dh-xvr5104hs
+
+Product: dh-xvr5108hs-4kl-x
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr5116he-x
+LLM Result: dh-xvr5116he
+
+Product: dh-xvr7416l-4kl-x
+LLM Result: dh-xvr7416l
+
+Product: dh-xvr5108hs-4kl
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr5232an-i3
+LLM Result: dh-xvr5232an
+
+Product: dr-tw2516an-i2
+LLM Result: dr-tw2516an
+
+Product: dh-xvr5116hs-i2
+LLM Result: dh-xvr5116hs
+
+Product: dh-xvr5116hs-x
+LLM Result: dh-xvr5116hs
+
+Product: dh-hcvr4108he-s2
+LLM Result: dh-hcvr4108he
+
+Product: dh-xvr4108c
+LLM Result: dh-xvr4108c-x1-wh
+
+Product: dh-hcvr5232an-s3
+LLM Result: dh-hcvr5232an
+
+Product: dh-xvr5104hs-i3
+LLM Result: dh-xvr5104hs
+
+Product: ds-7116 tvi
+LLM Result: ds-7116
+
+Product: dh-xvr5104c-4kl-x
+LLM Result: dh-xvr5104c
+
+Product: dh-xvr5108hs-x
+LLM Result: dh-xvr5108hs
+
+Product: dhi-hcvr5108he-s2
+LLM Result: dhi-hcvr5108he
+
+Product: dh-xvr5232an-i2
+LLM Result: dh-xvr5232an
+
+Product: dh-xvr5116hs-i3
+LLM Result: dh-xvr5116hs
+
+Product: dh-xvr4232an-x
+LLM Result: dh-xvr4232an
+
+Product: xvr-5208a-4kl-i3
+LLM Result: kv-xvr-5208a-4kl
+
+Product: dh-xvr7108he-4kl-x
+LLM Result: dh-xvr7108he
+
+Product: dh-xvr5104h
+LLM Result: dh-xvr5104h-x1
+
+Product: dh-xvr5208an-4kl
+LLM Result: dh-xvr5208an
+
+Product: dh-xvr4116hs-i-vn
+LLM Result: dh-xvr4116hs
+
+Product: dh-xvr4116hs-x
+LLM Result: dh-xvr4116hs
+
+Product: fu hdtvi 1516-s3 16ch
+LLM Result: fu hdtvi
+
+Product: dh-xvr4104c
+LLM Result: dh-xvr4104c-x1
+
+Product: imhdx 9016 ft
+LLM Result: imhdx 9016
+
+Product: dh-xvr5116he-x
+LLM Result: dh-xvr5116he
+
+Product: dh-xvr4104c
+LLM Result: dh-xvr4104c-x1
+
+Product: dh-xvr5216a
+LLM Result: dh-xvr5216a-x
+
+Product: dh-xvr7416l-4kl-x
+LLM Result: dh-xvr7416l
+
+Product: dh-xvr5116h-4kl
+LLM Result: dh-xvr5116h
+
+Product: dh-xvr5108he-i2
+LLM Result: dh-xvr5108he
+
+Product: dh-xvr5216an-4kl-i2
+LLM Result: dh-xvr5216an
+
+Product: dh-xvr4108c
+LLM Result: dh-xvr4108c-i
+
+Product: dh-xvr5116h
+LLM Result: dh-xvr5116h-i
+
+Product: ds-7208hqhi-k1/gsc/8 audio
+LLM Result: ds-7208hqhi-k1/gsc/8
+
+Product: dh-xvr5116h
+LLM Result: dh-xvr5116h-i
+
+Product: dh-xvr5104h-4kl-x
+LLM Result: dh-xvr5104h
+
+Product: dh-xvr5108hs-4kl-x
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr5104he
+LLM Result: dh-xvr5104he-x1
+
+Product: dvr-208g-k1
+LLM Result: ds-hilooki-dvr-208g-k1
+
+Product: dh-xvr5108he-x
+LLM Result: dh-xvr5108he
+
+Product: dh-xvr5108h-4kl-x
+LLM Result: dh-xvr5108h
+
+Product: dh-xvr4116hs
+LLM Result: dh-xvr4116hs-i
+
+Product: kp-tvi9016hiv2
+LLM Result: kp-tvi9016hiv2(i/o)
+
+Product: dh-xvr5116h-4kl
+LLM Result: dh-xvr5116h
+
+Product: dh-xvr5216an-4kl
+LLM Result: dh-xvr5216an
+
+Product: ds-7216hqhi-f1/n
+LLM Result: ds-7216hqhi-f1/n 4
+
+Product: dr-tw1516e
+LLM Result: dr-tw1516e
+
+Product: dh-xvr4104hs
+LLM Result: dh-xvr4104hs-x1
+
+Product: dhi-xvr5116hs-s2
+LLM Result: dhi-xvr5116hs
+
+Product: dh-xvr5108hs-4kl
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr5216a-4kl-i2
+LLM Result: dh-xvr5216a-4kl
+
+Product: dh-xvr5104c
+LLM Result: dh-xvr5104c-x1
+
+Product: dh-xvr5116hs-x
+LLM Result: dh-xvr5116hs
+
+Product: xvr4108hs
+LLM Result: dhi-xvr4108hs
+
+Product: le918
+LLM Result: lupustec-le9184k
+
+Product: dh-xvr7216a
+LLM Result: dh-xvr7216a-4kl
+
+Product: cm-twx6104he-i3
+LLM Result: cm-twx6104he
+
+Product: dh-xvr5116hs-i3
+LLM Result: dh-xvr5116hs
+
+Product: dh-xvr5232an-x
+LLM Result: dh-xvr5232
+
+Product: hxvr5116hs-x
+LLM Result: td-hxvr5116hs
+
+Product: dh-xvr5108h-4kl-x
+LLM Result: dh-xvr5108h
+
+Product: dh-xvr5108hs-x
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr5216a
+LLM Result: dh-xvr5216a-x
+
+Product: dh-xvr5108hs-4kl-x
+LLM Result: dh-xvr5108hs
+
+Product: dh-xvr5116h-4kl-x
+LLM Result: dh-xvr5116h
+
+Product: dh-xvr5104h
+LLM Result: dh-xvr5104h-i
+
+Product: fritz!powerline 1240e 150
+LLM Result: fritz!powerline 1240e
+
+Product: dh-nvr808
+LLM Result: dh-nvr808-64-hds2
+
+Product: xvr7104he
+LLM Result: dh-xvr7104he
+
+Product: dh-nvr808
+LLM Result: dh-nvr808-64-hds2
+
+Product: nvr5424-24p-4ks2
+LLM Result: dhi-nvr5424-24p-4ks2
+
+Product: nvr4216-i
+LLM Result: dhi-nvr4216-i
+
+Product: nvr2116-i
+LLM Result: dhi-nvr2116-i
+
+Product: ltv rnm-160 01
+LLM Result: ltv rnm-160
+
+Product: nvr4832-hds2l
+LLM Result: dh-nvr4832-hds2
+
+Product: dhi-xvr5208an-4kl
+LLM Result: dhi-xvr5208an
+
+Product: xvr7104he
+LLM Result: dh-xvr7104he
+
+Product: dh-nvr5232-4ks2.
+LLM Result: dh-nvr5232-4ks2
+
+Product: dhi-nvr5208-4ks2
+LLM Result: dhi-nvr5208-4ks2(v2.0)
+
+Product: dh-xvr5104c-s2
+LLM Result: xvr5104c-s2
+
+Product: dh-nvr4416-16p-4ks2
+LLM Result: nvr4416-16p-4ks2
+
+Product: nvr-mx08poe-1u4k1
+LLM Result: nvr7000k
+
+Product: dh-nvr5416-4ks2
+LLM Result: dh-nvr5416-4ks2-hw
+
+Product: dhi-nvr4104-p-4ks2 1t
+LLM Result: dhi-nvr4104-p-4ks2
+
+Product: rl-nvr4x4p1h.at
+LLM Result: rl-nvr4x4p1h
+
+Product: dh-nvr4216-4ks2
+LLM Result: nvr4216-4ks2
+
+Product: cp-unr-4k4164-v2
+LLM Result: cp-unr-4k4164
+
+Product: dh-nvr808
+LLM Result: dh-nvr808-32-hds2
+
+Product: dh-nvr4832
+LLM Result: dh-nvr4832-i
+
+Product: nvr4com3
+LLM Result: e57_nvr4com3-2t
+
+Product: dhi-xvr4108c-s2
+LLM Result: dhi-xvr4108c
+
+Product: dhi-nvr5208-4ks2
+LLM Result: dhi-nvr5208-4ks2(v2.0)
+
+Product: dh-nvr808
+LLM Result: dh-nvr808-32-hds2
+
+Product: dhi-xvr5108hs-s2
+LLM Result: dhi-xvr5108hs
+
+Product: dhi-xvr4116hs+wd 1 tb
+LLM Result: dhi-xvr4116hs+wd
+
+Product: dhi-xvr5108h-4kl
+LLM Result: dhi-xvr5108h-4kl-8p
+
+Product: cp-unr-4k4164-v2
+LLM Result: cp-unr-4k4164
+
+Product: cvp-m4d50-odi
+LLM Result: clarevision-cvp-m4d50-odi
+
+Product: dh-nvr4208-4ks2
+LLM Result: nvr4208-4ks2
+
+Product: dhi-xvr5108h-s2
+LLM Result: dhi-xvr5108h
+
+Product: dhi-xvr5216an
+LLM Result: dhi-xvr5216an-s2
+
+Product: dhi-xvr5108hs-s2
+LLM Result: dhi-xvr5108hs
+
+Product: dhi-xvr4216a
+LLM Result: dhi-xvr4216a-s2
+
+Product: dhi-nvr5216-4ks2
+LLM Result: dhi-nvr5216-4ks2(v2.0)-2tb
+
+Product: dhi-xvr4104hs-s2
+LLM Result: dhi-xvr4104hs
+
+Product: nvr8com3-2t
+LLM Result: e60_nvr8com3-2t
+
+Product: nvr2208-i
+LLM Result: dhi-nvr2208-i
+
+Product: xvr7104he
+LLM Result: dh-xvr7104he
+
+Product: cp-unr-4k4328
+LLM Result: cp-unr-4k4328-v2
+
+Product: dhi-xvr5108he-s2
+LLM Result: dhi-xvr5108he
+
+Product: nvr2216-i
+LLM Result: dhi-nvr2216-i
+
+Product: dhi-xvr5108c
+LLM Result: dhi-xvr5108c-s2
+
+Product: dh-nvr808
+LLM Result: dh-nvr808-32-hds2
+
+Product: dhi-xvr5104hs-s2
+LLM Result: dhi-xvr5104hs
+
+Product: dhi-nvr4208-8p-4ks2
+LLM Result: dhi-nvr4208-8p-4ks2-uk
+
+Product: dhi-xvr5104hs-s2
+LLM Result: dhi-xvr5104hs
+
+Product: dh-nvr4208-4ks2
+LLM Result: nvr4208-4ks2
+
+Product: dh-nvr5464-4ks2
+LLM Result: nvr5464-4ks2
+
+Product: dhi-xvr4104hs-s2
+LLM Result: dhi-xvr4104hs
+
+Product: nvr8com3
+LLM Result: e59
+
+Product: nd9322p
+LLM Result: nd9322p-v2
+
+Product: dh-nvr5416-4ks2
+LLM Result: dh-nvr5416-4ks2-hw
+
+Product: 16ch2h8poe-5-1u
+LLM Result: 16ch2h8poe-5-1u u
+
+Product: dhi-nvr4108hs-8p-4ks2/l
+LLM Result: dhi-nvr4108hs-8p-4ks2
+
+Product: dhi-xvr5108hs-s2
+LLM Result: dhi-xvr5108hs
+
+Product: dhi-xvr5104c
+LLM Result: dhi-xvr5104c-s2+st
+
+Product: 8ch1h-sm
+LLM Result: nvr201-08l-dt
+
+Product: dhi-xvr5108h
+LLM Result: dhi-xvr5108h-s2
+
+Product: hn-3232-4kf-v2
+LLM Result: hn-3232-4kf
+
+Product: dhi-xvr4108hs-s2
+LLM Result: dhi-xvr4108hs
+
+Product: le918
+LLM Result: lupustec-le9184k
+
+Product: dh-nvr816
+LLM Result: dh-nvr816-64-hds2
+
+Product: dh-nvr4108-8p-4ks2
+LLM Result: nvr4108-8p-4ks2
+
+Product: xvr7104he
+LLM Result: dh-xvr7104he
+
+Product: dhi-nvr4104hs-4ks2
+LLM Result: dhi-nvr4104hs-4ks2-1t
+
+Product: nvr4216-i
+LLM Result: dhi-nvr4216-i
+
+Product: dhi-nvr5432-4ks2
+LLM Result: dhi-nvr5432-4ks2(v2.0)
+
+Product: xvr7104he
+LLM Result: dh-xvr7104he
+
+Product: nvr16com-i
+LLM Result: f03_nvr16com-i
+
+Product: nvr24pro6
+LLM Result: c48_nvr24pro6
+
+Product: rl-nvr32c-4h.lite
+LLM Result: rl-nvr32c-4h
+
+Product: nvr2104-i
+LLM Result: dhi-nvr2104-i
+
+Product: dh-nvr816
+LLM Result: dh-nvr816-64-hds2
+
+Product: dh-ivss708
+LLM Result: dh-ivss708-s1
+
+Product: tl-ap452c-poe
+LLM Result: l-ap452c-poe
+
+Product: nwa1121-ni
+LLM Result: zyxel nwa1121-ni
+
+Product: nwa5121-ni
+LLM Result: nwa5121-
+
+Product: ap541n
+LLM Result: ap541
+
+Product: nwa1100-n
+LLM Result: zyxel nwa1100-n
+
+Product: pmp 450b high gain
+LLM Result: 450b-lbass
+
+Product: pmp 450b high gain
+LLM Result: pmp 450b
+
+Product: des-1228
+LLM Result: des-1228/me
+
+Product: swl-3300ap
+LLM Result: swl-3300ap(hw)
+
+Product: rackswitch g8316
+LLM Result: g8316
+
+Product: rackswitch g8124-e
+LLM Result: g8124-e
+
+Product: catalyst 3560
+LLM Result: catalyst 3560-fo
+
+Product: 2950-12
+LLM Result: 29
+
+Product: procurve switch 1600m
+LLM Result: j4120a
+
+Product: gs1900-8hp
+LLM Result: zyxel gs1900-8hp
+
+Product: airgrid m5 hp
+LLM Result: irgrid m5 hp
+
+Product: airgrid m5 hp
+LLM Result: irgrid m5 hp
+
+Product: airgrid m5 hp
+LLM Result: irgrid m5 hp
+
+Product: rackswitch g8124-e
+LLM Result: g8124-e
+
+Product: airgrid m5 hp
+LLM Result: irgrid m5 hp
+
+Product: airgrid m5 hp
+LLM Result: irgrid m5 hp
+
+Product: airgrid m5 hp
+LLM Result: irgrid m5 hp
+
+Product: ds-kd8003-ime1
+LLM Result: ds-kd8003-ime
+
+Product: vto1210b-x
+LLM Result: vto1210b
+
+Product: vto1210c-x
+LLM Result: vto1210c
+
+Product: vto1210c-x
+LLM Result: vto1210c
+
+Product: 8028
+LLM Result: algo 8028
+
+Product: ds06a(p)
+LLM Result: ds06a(p
+
+Product: ds06a(p)
+LLM Result: ds06a(p
+
+Product: fortigate 80f
+LLM Result: nfortigate-80f
+
+Product: fortigate-80e
+LLM Result: fortigate_80e
+
+Product: prosafe fvs318n
+LLM Result: fvs318n
+
+Product: fortiwifi-40f
+LLM Result: nfortiwifi-40f
+
+Product: prosafe fvs318n
+LLM Result: n
+
+Product: fortigate-60
+LLM Result: nfortigate-60
+
+Product: fortigate 60f
+LLM Result: nfortigate-60f
+
+Product: usg2110-a-gw-w
+LLM Result: usg2110
+
+Product: usg20w
+LLM Result: usg20w-vpn
+
+Product: fvs338
+LLM Result: 
+
+Product: prosafe fvs318n
+LLM Result: fvs318n
+
+Product: fvs336gv2
+LLM Result: 336g
+
+Product: fortigate 100f
+LLM Result: nfortigate-100f
+
+Product: srx5308
+LLM Result: rx5308
+
+Product: srxn3205
+LLM Result: rxn3205
+
+Product: ds2415+
+LLM Result: ds2415
+
+Product: usg5520s
+LLM Result: usg5520
+
+Product: ts-470 pro
+LLM Result: ts-470
+
+Product: ds710+
+LLM Result: ds710
+
+Product: ds1515+
+LLM Result: ds1515
+
+Product: ds716
+LLM Result: ds716plus
+
+Product: ts-269l
+LLM Result: ts-269 pro
+
+Product: ds214+
+LLM Result: ds214
+
+Product: ds3617xs
+LLM Result: gm-ds3617xs
+
+Product: ts-ec1679u-rp
+LLM Result: ts-1679u
+
+Product: ds2413+
+LLM Result: ds2413
+
+Product: rs815+
+LLM Result: rs815
+
+Product: vs-2108l
+LLM Result: ts-412
+
+Product: ds412+
+LLM Result: ds412
+
+Product: ds216
+LLM Result: ds216ii
+
+Product: ts-431
+LLM Result: ts-x31
+
+Product: ds214
+LLM Result: ds_214
+
+Product: ds1817+
+LLM Result: ds1817
+
+Product: ds216j
+LLM Result: ds216j-ss1
+
+Product: ds213+
+LLM Result: ds213
+
+Product: ds2413+
+LLM Result: ds2413
+
+Product: ds1812+
+LLM Result: ds1812
+
+Product: ds215+
+LLM Result: ds215
+
+Product: nas4dual
+LLM Result: nas
+
+Product: ts-131
+LLM Result: ts-x31
+
+Product: ds718+
+LLM Result: ds718
+
+Product: ds720+
+LLM Result: ds720
+
+Product: ds213
+LLM Result: ds213air
+
+Product: ds1812+
+LLM Result: ds1812
+
+Product: ts-870 pro
+LLM Result: ts
+
+Product: ds713+
+LLM Result: ds713
+
+Product: ds712+
+LLM Result: ds712
+
+Product: ds1517+
+LLM Result: ds1517
+
+Product: diskstation - ds209
+LLM Result: ds209
+
+Product: diskstation - ds210j
+LLM Result: ds210j
+
+Product: ds1817+
+LLM Result: ds1817
+
+Product: ds214+
+LLM Result: ds214plus
+
+Product: ts-269l
+LLM Result: ts-269 pro
+
+Product: ds1513+
+LLM Result: ds1513
+
+Product: ds218
+LLM Result: ds218cam
+
+Product: ds710+
+LLM Result: ds710
+
+Product: ts-269l
+LLM Result: ts-269 pro
+
+Product: ds212+
+LLM Result: ds212
+
+Product: ts-130
+LLM Result: ts-x28a
+
+Product: diskstation - ds209
+LLM Result: ds209
+
+Product: ts-231
+LLM Result: ts-x31
+
+Product: ts-ec870u-rp
+LLM Result: ts-870u
+
+Product: ds1019+
+LLM Result: ds1019
+
+Product: nas326
+LLM Result: nas
+
+Product: ds116
+LLM Result: 116
+
+Product: ts-259 pro+
+LLM Result: ts-259 pro
+
+Product: ds212+
+LLM Result: ds212
+
+Product: ds214+
+LLM Result: ds214
+
+Product: rs816
+LLM Result: kbq-rs816
+
+Product: ds418play
+LLM Result: ds418play14
+
+Product: ds112+
+LLM Result: ds112
+
+Product: ds1019+
+LLM Result: ds1019
+
+Product: ds3615xs
+LLM Result: ds3615xs-i5
+
+Product: ds216+
+LLM Result: ds216
+
+Product: ts-469l
+LLM Result: ts-469 pro
+
+Product: ds718+
+LLM Result: mir-nine
+
+Product: tds-16489u
+LLM Result: ts-x89u
+
+Product: ts-879u-rp
+LLM Result: ts-879u
+
+Product: ds718+
+LLM Result: ds718
+
+Product: ds2415+
+LLM Result: ds2415
+
+Product: ds1819+
+LLM Result: ds1819
+
+Product: ds414slim
+LLM Result: ds414
+
+Product: ds718+
+LLM Result: ds718
+
+Product: ds1819+
+LLM Result: ds1819
+
+Product: ds920+
+LLM Result: ds920
+
+Product: ds1517+
+LLM Result: ds1517
+
+Product: es1640dc v2
+LLM Result: es1640dc
+
+Product: ds415+
+LLM Result: ds415
+
+Product: ds1819+
+LLM Result: ds1819plus
+
+Product: ds713+
+LLM Result: ds713
+
+Product: ds2413+
+LLM Result: ds2413
+
+Product: ts-469l
+LLM Result: ts-469
+
+Product: ds1813+
+LLM Result: ds1813
+
+Product: ds115
+LLM Result: 115
+
+Product: ds509+
+LLM Result: ds509
+
+Product: ds918+
+LLM Result: ds918
+
+Product: ds1517+
+LLM Result: ds1517
+
+Product: ds1618+
+LLM Result: ds1618
+
+Product: ds1618+
+LLM Result: ds1618
+
+Product: ds1512+
+LLM Result: ds1512
+
+Product: ds718+
+LLM Result: ds718
+
+Product: ds1819+
+LLM Result: ds1819
+
+Product: ds412+
+LLM Result: ds412
+
+Product: vs-2108l
+LLM Result: ts-412
+
+Product: ds211+
+LLM Result: ds211
+
+Product: ds216play
+LLM Result: ds
+
+Product: ds712
+LLM Result: ds712-plus
+
+Product: tvs-670
+LLM Result: ts-670
+
+Product: ds412+
+LLM Result: ds412
+
+Product: vs-2104l
+LLM Result: ts-412
+
+Product: ds412+
+LLM Result: ds412
+
+Product: tvs-670
+LLM Result: ts-670
+
+Product: ds1515+
+LLM Result: ds1515
+
+Product: ds212+
+LLM Result: ds212
+
+Product: vs-2208 pro+
+LLM Result: vs-2200
+
+Product: vs-2212 pro+
+LLM Result: vs-2200
+
+Product: ds418
+LLM Result: ds418play
+
+Product: ds209+
+LLM Result: ds209+ii
+
+Product: ds1512+
+LLM Result: ds1512
+
+Product: ds718+
+LLM Result: ds718
+
+Product: ds1513+
+LLM Result: ds1513
+
+Product: ds2419+
+LLM Result: ds2419
+
+Product: ds218+
+LLM Result: ds218butano
+
+Product: ds412+
+LLM Result: ds412
+
+Product: ds212+
+LLM Result: ds212
+
+Product: ds218j
+LLM Result: ds218jsauer
+
+Product: ds718+
+LLM Result: ds718
+
+Product: ds1512+
+LLM Result: ds1512
+
+Product: vs-2212 pro+
+LLM Result: vs-2200
+
+Product: ds716
+LLM Result: ds716plus
+
+Product: ds713+
+LLM Result: ds713
+
+Product: ts-269l
+LLM Result: ts-269 pro
+
+Product: comfortel 2600 ip
+LLM Result: comfortel 2600
+
+Product: ts-870 pro
+LLM Result: ts-870
+
+Product: flex system fabric en4093r
+LLM Result: lenovo flex
+
+Product: wr44v2
+LLM Result: transport wr44v2
+
+Product: tc router 3002t-3g
+LLM Result: 3002t-3g
+
+Product: tc router 3002t-4g vzw
+LLM Result: 3002t-4g
+
+Product: tc router 3002t-4g
+LLM Result: 3002t-4g
+
+Product: f7x36
+LLM Result: hrk-sbk
+
+Product: tc router 2002t-4g
+LLM Result: 2002t-4g
+
+Product: adsl-350
+LLM Result: westermo
+
+Product: cr3000-07000
+LLM Result: cr3000
+
+Product: mrd-350
+LLM Result: estermo mrd-350
+
+Product: tc router 3002t-3g
+LLM Result: 3002t-3g
+
+Product: hmigto5310
+LLM Result: hmigto5310/5315
+
+Product: mediaaccess tg670 v2
+LLM Result: mediaaccess
+
+Product: mediaaccess tg788vn v2
+LLM Result: mediaaccess
+
+Product: p-660hn
+LLM Result: p-660hn-f1z
+
+Product: emg2306-r10a
+LLM Result: emg2306
+
+Product: p-660hn
+LLM Result: p-660hn-f1z
+
+Product: h267n
+LLM Result: zxhn h267n
+
+Product: oncell g3150a
+LLM Result: noncell g3150a-lte
+
+Product: nf20mesh
+LLM Result: nf20
+
+Product: h267n
+LLM Result: zxhn h267n
+
+Product: ex3510-b0
+LLM Result: 3510-b0
+
+Product: sbg3300
+LLM Result: zyxel sbg3300
+
+Product: re50g
+LLM Result: gc-re50g
+
+Product: mediaaccess tg789vac v2
+LLM Result: tg
+
+Product: p-870hnu-51b
+LLM Result: zyxel
+
+Product: re3000t
+LLM Result: gc-re3000t
+
+Product: vmg8825-b50b
+LLM Result: mg8825-b50b
+
+Product: secpath acg1000
+LLM Result: acg1000
+
+Product: p-660hn-51
+LLM Result: p-660hn
+
+Product: ex5401-b0
+LLM Result: 5401-b0
+
+Product: vmg3312-t20a
+LLM Result: mg3312-t20a
+
+Product: vmg1312-t20b
+LLM Result: mg1312-t20b
+
